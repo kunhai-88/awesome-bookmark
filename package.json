@@ -1,0 +1,12 @@
+{
+  "name": "awesome-photos",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ./ -p 3019"
+  },
+  "author": "",
+  "license": "ISC"
+}
