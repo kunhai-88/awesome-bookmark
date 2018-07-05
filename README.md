@@ -1,8 +1,8 @@
 # 书签
 
-> 前端技术
+## 技术
 
-## JavaScript
+> JavaScript
 
 [Web框架的架构模式探讨（JavaScript语言）](https://zhuanlan.zhihu.com/p/36925127?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -20,6 +20,6 @@
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
->互联网
+> 互联网
 
 [中国互联网20年简史（1998-2018）](https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg)
