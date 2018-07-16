@@ -2,6 +2,10 @@
 
 ## 前端技术
 
+[前端面试图普](https://yuchengkai.cn/docs/zh/frontend/#new)
+
+[JS高程中的垃圾回收机制与常见内存泄露的解决方法](http://obkoro1.com/2018/07/08/JS%E9%AB%98%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%B8%B8%E8%A7%81%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/#more)
+
 [前端可用性保障实践](https://tech.meituan.com/%20checkout_counter_front_end.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [javascript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#other)
@@ -41,6 +45,8 @@
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 计算机技术
+
+[再好好聊一聊 HTTP 中的 Cookie 细节](https://mp.weixin.qq.com/s/xc8A2dKlZmPHUhFcAevPxw)
 
 [正则表达](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
