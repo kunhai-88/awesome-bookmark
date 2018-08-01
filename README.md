@@ -2,6 +2,10 @@
 
 ## 前端技术
 
+[JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)
+
+[如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/#101)
+
 [图解 React](https://mp.weixin.qq.com/s/P5239PpBoGPyvJ9z84Q1Mg)
 
 [反击爬虫，前端工程师的脑洞可以有多大？](http://litten.me/2017/07/09/prevent-spiders/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
