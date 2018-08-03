@@ -62,6 +62,8 @@
 
 ## 计算机技术
 
+[原前缀树和后缀树](https://blog.csdn.net/u013949069/article/details/78056102)
+
 [再好好聊一聊 HTTP 中的 Cookie 细节](https://mp.weixin.qq.com/s/xc8A2dKlZmPHUhFcAevPxw)
 
 [正则表达](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
