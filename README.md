@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[可变对象与 immutable.js](https://zhuanlan.zhihu.com/p/34231785)
+
 [深入理解 React 高阶组件](https://zhuanlan.zhihu.com/p/24776678?group_id=802649040843051008)
 
 [Immutable 常用API简介](https://segmentfault.com/a/1190000010676878)
