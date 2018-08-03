@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[不可变数据](https://segmentfault.com/a/1190000011992645)
+
 [Immutable 详解及 React 中实践](https://segmentfault.com/a/1190000003910357)
 
 [可变对象与 immutable.js](https://zhuanlan.zhihu.com/p/34231785)
