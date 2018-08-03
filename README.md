@@ -2,7 +2,7 @@
 
 ## 前端技术
 
-[Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
+[Immutable 详解及 React 中实践](https://segmentfault.com/a/1190000003910357)
 
 [可变对象与 immutable.js](https://zhuanlan.zhihu.com/p/34231785)
 
