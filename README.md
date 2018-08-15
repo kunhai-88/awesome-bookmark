@@ -68,6 +68,8 @@
 
 ## 计算机技术
 
+[HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
+
 [鲜为人知的HTTP协议头字段详解大全](https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg)
 
 [原前缀树和后缀树](https://blog.csdn.net/u013949069/article/details/78056102)
