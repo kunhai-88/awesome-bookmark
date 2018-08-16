@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[彻底搞懂JavaScript中的this指向问题](https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [Vue.js是如何做到数据响应的？](https://www.zcfy.cc/article/the-best-explanation-of-javascript-reactivity?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [不可变数据](https://segmentfault.com/a/1190000011992645)
