@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[通过Recompose库掌握React函数组件](https://zhuanlan.zhihu.com/p/42494044?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [彻底搞懂JavaScript中的this指向问题](https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Vue.js是如何做到数据响应的？](https://www.zcfy.cc/article/the-best-explanation-of-javascript-reactivity?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
