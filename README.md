@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[小哥哥小姐姐，来尝尝 Async 函数这块语法糖](https://zhuanlan.zhihu.com/p/42649246?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [通过Recompose库掌握React函数组件](https://zhuanlan.zhihu.com/p/42494044?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [彻底搞懂JavaScript中的this指向问题](https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
