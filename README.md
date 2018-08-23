@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[Node.js 前端开发指南](https://www.zcfy.cc/article/node-js-guide-for-frontend-developers?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [一些 JavaScript 中的代码小技巧](https://mp.weixin.qq.com/s/ImY68GlHLoprZ4okdTudOw)
 
 [小哥哥小姐姐，来尝尝 Async 函数这块语法糖](https://zhuanlan.zhihu.com/p/42649246?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
