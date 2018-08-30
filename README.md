@@ -80,6 +80,10 @@
 
 ## 计算机技术
 
+[Docker的学习--命令使用详解](http://www.cnblogs.com/CraryPrimitiveMan/p/4657835.html)
+
+[docker-compose.yml 语法说明](https://www.cnblogs.com/freefei/p/5311294.html)
+
 [HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
 
 [鲜为人知的HTTP协议头字段详解大全](https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg)
