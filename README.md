@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[Common webpage design mistakes](http://blog-en.tilda.cc/articles-website-design-mistakes)
+
 [写给前端工程师的10条实用原则](https://blog.fundebug.com/2018/08/29/10-things-you-will-eventually-learn-about-js-projects/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Node.js 前端开发指南](https://www.zcfy.cc/article/node-js-guide-for-frontend-developers?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
