@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[我从没理解过 JavaScript 闭包](https://blog.hhking.cn/2018/09/08/i-never-understood-javascript-closures/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [精读《高性能 javascript》](https://mp.weixin.qq.com/s/ULS53pjohZwfhsnMp1beog)
 
 [Common webpage design mistakes](http://blog-en.tilda.cc/articles-website-design-mistakes)
