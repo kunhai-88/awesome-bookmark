@@ -128,6 +128,8 @@
 
 [腾讯的产品思维VS阿里的终局思维](https://mp.weixin.qq.com/s/SWwX9MP-IQ02k6T7thOISA)
 
+[sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
+
 ## 投资理财
 
 [期权入门篇](https://zhuanlan.zhihu.com/p/29658293)
