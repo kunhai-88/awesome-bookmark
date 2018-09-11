@@ -122,13 +122,16 @@
 
 [Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
+[sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
+
 ## 互联网
 
 [中国互联网20年简史（1998-2018）](https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg)
 
 [腾讯的产品思维VS阿里的终局思维](https://mp.weixin.qq.com/s/SWwX9MP-IQ02k6T7thOISA)
 
-[sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
+[程序员你为什么这么累？](https://zhuanlan.zhihu.com/p/28705206?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 投资理财
 
