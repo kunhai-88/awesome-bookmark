@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[前端常用开发工具的路径解析配置](https://www.imooc.com/article/33197)
+
 [面向体验的重构优化](https://mp.weixin.qq.com/s/GyBsKNYrUkNc5IAw4UJ6Sw)
 
 [我从没理解过 JavaScript 闭包](https://blog.hhking.cn/2018/09/08/i-never-understood-javascript-closures/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
