@@ -126,6 +126,8 @@
 
 [浅谈 MVC、MVP 和 MVVM 架构模式](https://draveness.me/mvx?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[从项目工程化的角度，谈一下 MVC 与 MVVM](https://mp.weixin.qq.com/s/uKu5duM81HDJlHqOaJCsBg)
+
 [深入理解git merge 和 git rebase](https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4)
 
 [Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
