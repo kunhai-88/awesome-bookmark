@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[浅谈 web 前端开发中的国际化](https://mp.weixin.qq.com/s/vqzvn-mwiFQmfPyuukPSWw)
+
 [26个精选的JavaScript面试问题](https://blog.fundebug.com/2018/10/18/top-26-js-interview-questions/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [前端常用开发工具的路径解析配置](https://www.imooc.com/article/33197)
