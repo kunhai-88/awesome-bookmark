@@ -108,6 +108,8 @@
 
 ## 计算机技术
 
+[漫话：如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA)
+
 [Docker的学习--命令使用详解](http://www.cnblogs.com/CraryPrimitiveMan/p/4657835.html)
 
 [docker-compose.yml 语法说明](https://www.cnblogs.com/freefei/p/5311294.html)
