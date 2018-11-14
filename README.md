@@ -108,11 +108,17 @@
 
 ## 计算机技术
 
-[漫话：如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA)
+### docker
+
+[Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
+[Docker 快速上手指南](https://segmentfault.com/a/1190000008822648)
 
 [Docker的学习--命令使用详解](http://www.cnblogs.com/CraryPrimitiveMan/p/4657835.html)
 
 [docker-compose.yml 语法说明](https://www.cnblogs.com/freefei/p/5311294.html)
+
+[漫话：如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA)
 
 [HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
 
