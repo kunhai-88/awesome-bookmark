@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[JavaScript错误处理权威指南](https://mp.weixin.qq.com/s/dmMc2ADUv4efEj1P-noo8A)
+
 [抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？](https://mp.weixin.qq.com/s/B5Nl7vee9yWdcd_oxn0bXQ)
 
 [浅谈 web 前端开发中的国际化](https://mp.weixin.qq.com/s/vqzvn-mwiFQmfPyuukPSWw)
