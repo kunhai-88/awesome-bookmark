@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[console的那些事儿](https://zhuanlan.zhihu.com/p/51724985?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [JavaScript错误处理权威指南](https://mp.weixin.qq.com/s/dmMc2ADUv4efEj1P-noo8A)
 
 [如何优雅处理前端异常？](http://jartto.wang/2018/11/20/js-exception-handling/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
