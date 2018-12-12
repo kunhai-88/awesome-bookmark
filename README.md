@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [console的那些事儿](https://zhuanlan.zhihu.com/p/51724985?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [JavaScript错误处理权威指南](https://mp.weixin.qq.com/s/dmMc2ADUv4efEj1P-noo8A)
