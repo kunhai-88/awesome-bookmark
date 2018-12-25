@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[为什么前端监控要用GIF打点](https://mp.weixin.qq.com/s/v6R2w26qZkEilXY0mPUBCw)
+
 [像写作一样去写代码，如何把异步的形式改写成同步的形式](https://mp.weixin.qq.com/s/9ZJBCKU0ByKaBrkf68cDsw)
 
 [浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
