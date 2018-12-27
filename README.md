@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [停止学习框架](https://zhuanlan.zhihu.com/p/52814937#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [为什么前端监控要用GIF打点](https://mp.weixin.qq.com/s/v6R2w26qZkEilXY0mPUBCw)
