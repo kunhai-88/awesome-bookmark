@@ -2,6 +2,9 @@
 
 ## 前端技术
 
+
+[为什么越来越少的人用 jQuery？](https://mp.weixin.qq.com/s/Q1xerYVlMepW6jcHrT7mbg)
+
 [前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [停止学习框架](https://zhuanlan.zhihu.com/p/52814937#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
