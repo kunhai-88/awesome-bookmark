@@ -2,6 +2,7 @@
 
 ## 前端技术
 
+[前端面试官的套路，你懂吗？](http://jartto.wang/2019/01/06/f2e-interview/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [为什么越来越少的人用 jQuery？](https://mp.weixin.qq.com/s/Q1xerYVlMepW6jcHrT7mbg)
 
