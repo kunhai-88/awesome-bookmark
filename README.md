@@ -2,7 +2,9 @@
 
 ## 前端技术
 
-[性能优化】quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789?utm_source=gold_browser_extension)
+[PWA](https://alienzhou.gitbook.io/learning-pwa/)
+
+[quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789?utm_source=gold_browser_extension)
 
 [JavaScript 如何正确处理 Unicode 编码问题！](https://segmentfault.com/a/1190000017782406)
 
