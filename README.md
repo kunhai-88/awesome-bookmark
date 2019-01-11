@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[性能优化】quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789?utm_source=gold_browser_extension)
+
 [JavaScript 如何正确处理 Unicode 编码问题！](https://segmentfault.com/a/1190000017782406)
 
 [前端面试官的套路，你懂吗？](http://jartto.wang/2019/01/06/f2e-interview/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
