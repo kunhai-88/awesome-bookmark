@@ -2,7 +2,7 @@
 
 ## 前端技术
 
-[PWA](https://alienzhou.gitbook.io/learning-pwa/)
+[PWA学习手册](https://alienzhou.gitbook.io/learning-pwa/)
 
 [quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789?utm_source=gold_browser_extension)
 
@@ -200,6 +200,8 @@
 [如何高效的主持会议](https://www.taohui.pub/821.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [你是否能被轻易地取代？](https://mp.weixin.qq.com/s/Czfh16F8256chVpRwVaEBw)
+
+[数学乐](http://www.shuxuele.com/index.html)
 
 ## AI
 
