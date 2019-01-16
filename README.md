@@ -74,6 +74,10 @@
 
 [JS高程中的垃圾回收机制与常见内存泄露的解决方法](http://obkoro1.com/2018/07/08/JS%E9%AB%98%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%B8%B8%E8%A7%81%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/#more)
 
+[前段进阶必备：JavaScript 内存机制](https://mp.weixin.qq.com/s/wumZseCfba4XaDbAFwFdwA)
+
+[JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏](https://segmentfault.com/a/1190000017392370?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [前端可用性保障实践](https://tech.meituan.com/%20checkout_counter_front_end.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [javascript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#other)
@@ -103,8 +107,6 @@
 [Promise 的内部是如何工作的？](https://jsernews.com/news/193?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Webpack 4 配置最佳实践](http://zxc0328.github.io/2018/06/19/webpack-4-config-best-practices/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[前段进阶必备：JavaScript 内存机制](https://mp.weixin.qq.com/s/wumZseCfba4XaDbAFwFdwA)
 
 [Mathjax与LaTex公式简介](https://www.cnblogs.com/linxd/p/4955530.html)
 
