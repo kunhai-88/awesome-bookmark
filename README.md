@@ -197,6 +197,10 @@
 
 [https://mp.weixin.qq.com/s/nBrd5V47dyalZyuZK2nnoQ](https://mp.weixin.qq.com/s/nBrd5V47dyalZyuZK2nnoQ)
 
+## 设计
+
+[9个小知识教你更好的理解动画原则，提升动效品质](https://mp.weixin.qq.com/s/6aIN1LcLyXd2KP4sf05U3w)
+
 ## 杂文
 
 [如何高效的主持会议](https://www.taohui.pub/821.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
