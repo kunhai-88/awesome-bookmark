@@ -197,6 +197,8 @@
 
 ## 投资理财
 
+[程序员的房产、金融与第二战场](https://mp.weixin.qq.com/s/T7Z8NZhIJ4WfYAb5K-iy3Q)
+
 [期权入门篇](https://zhuanlan.zhihu.com/p/29658293)
 
 [三大报表：财务界的通用语言](https://mp.weixin.qq.com/s/KY_FgC1-joFaACL0fjU2Ag)
