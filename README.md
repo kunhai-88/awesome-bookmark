@@ -142,6 +142,8 @@
 
 [顶尖 API 文档管理工具 (Yapi)](https://www.jianshu.com/p/a97d2efb23c5)
 
+[api 接口管理工具](https://segmentfault.com/a/1190000017893659?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ## 计算机技术
 
 ### docker
