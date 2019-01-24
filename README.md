@@ -138,6 +138,8 @@
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Java能抵挡住JavaScript的进攻吗？](https://mp.weixin.qq.com/s/BY2uVuQfqzf5VUCB2tck5Q)
+
 ## 计算机技术
 
 ### docker
