@@ -205,7 +205,9 @@
 
 [三大报表：财务界的通用语言](https://mp.weixin.qq.com/s/KY_FgC1-joFaACL0fjU2Ag)
 
-[https://mp.weixin.qq.com/s/nBrd5V47dyalZyuZK2nnoQ](https://mp.weixin.qq.com/s/nBrd5V47dyalZyuZK2nnoQ)
+[从 25 倍稀释下的蘑菇街期权说起](https://mp.weixin.qq.com/s/nBrd5V47dyalZyuZK2nnoQ)
+
+[远望资本程浩：资本寒冬下的创业真相](https://mp.weixin.qq.com/s/rk9gHBljuqB3XJNJ2R1Crg)
 
 ## 设计
 
