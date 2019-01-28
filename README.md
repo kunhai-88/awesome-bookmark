@@ -148,6 +148,10 @@
 
 ## 计算机技术
 
+### GraphQL
+
+[GraphQL到底怎么用？看看这个例子就知道了](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
+
 ### docker
 
 [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
