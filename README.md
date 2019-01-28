@@ -136,6 +136,10 @@
 
 [Flutter实战](https://book.flutterchina.club)
 
+[让我们在2019年重新认识 Flutter](https://zhuanlan.zhihu.com/p/55125580)
+
+[为前端工程师准备的 Flutter 入门指南](https://zhuanlan.zhihu.com/p/55329631?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ### Nodejs
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
