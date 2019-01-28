@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[一口（很长的）气了解 babel](https://zhuanlan.zhihu.com/p/43249121?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [PWA学习手册](https://alienzhou.gitbook.io/learning-pwa/)
 
 [quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789?utm_source=gold_browser_extension)
