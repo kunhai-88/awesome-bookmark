@@ -134,6 +134,8 @@
 
 [关于Flutter，你想知道的都在这里了！](https://mp.weixin.qq.com/s/8OKI-gNu4Qrt298zae43SQ)
 
+[Flutter实战](https://book.flutterchina.club)
+
 ### Nodejs
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
