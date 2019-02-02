@@ -196,6 +196,8 @@
 
 [HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 
+[如何使用rsync命令](https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw)
+
 ### Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
