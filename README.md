@@ -211,6 +211,8 @@
 
 [程序员你为什么这么累？](https://zhuanlan.zhihu.com/p/28705206?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[为什么美国程序员工作比中国程序员工作轻松、加班少？](https://mp.weixin.qq.com/s/eLl-juu6faqPwfBzAwc29Q)
+
 ## 投资理财
 
 [程序员的房产、金融与第二战场](https://mp.weixin.qq.com/s/T7Z8NZhIJ4WfYAb5K-iy3Q)
