@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[30 seconds of code](https://30secondsofcode.org/)
+
 [635000 个 npm 包中我应该用哪个？](https://mp.weixin.qq.com/s/KFFeakXLvhX9okhS8UtxKw)
 
 [一口（很长的）气了解 babel](https://zhuanlan.zhihu.com/p/43249121?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
