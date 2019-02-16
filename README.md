@@ -215,6 +215,8 @@
 
 [为什么美国程序员工作比中国程序员工作轻松、加班少？](https://mp.weixin.qq.com/s/eLl-juu6faqPwfBzAwc29Q)
 
+[知者不言，言者不知：论华人工程师之领导力](https://mp.weixin.qq.com/s/nA2rtrJ-REXMrwR8iJGWTA)
+
 ## 投资理财
 
 [程序员的房产、金融与第二战场](https://mp.weixin.qq.com/s/T7Z8NZhIJ4WfYAb5K-iy3Q)
