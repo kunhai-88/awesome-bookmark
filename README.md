@@ -200,6 +200,8 @@
 
 [如何使用rsync命令](https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw)
 
+[Jenkins 学习使用实践](https://www.jianshu.com/p/55df42bc57ec?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ### Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
