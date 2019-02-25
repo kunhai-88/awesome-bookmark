@@ -198,6 +198,8 @@
 
 [HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 
+[GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+
 [如何使用rsync命令](https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw)
 
 [Jenkins 学习使用实践](https://www.jianshu.com/p/55df42bc57ec?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
