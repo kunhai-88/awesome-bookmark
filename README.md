@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[Web 性能优化： 图片优化让网站大小减少 62%](https://segmentfault.com/a/1190000018392559?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [30 seconds of code](https://30secondsofcode.org/)
 
 [635000 个 npm 包中我应该用哪个？](https://mp.weixin.qq.com/s/KFFeakXLvhX9okhS8UtxKw)
