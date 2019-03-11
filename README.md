@@ -212,6 +212,8 @@
 
 [数字世界中的纸张——理解 PDF](https://type.cyhsu.xyz/2018/09/understanding-pdf-the-digitalized-paper/)
 
+[数据库索引是什么？新华字典来帮你](https://zhuanlan.zhihu.com/p/57359378?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ### Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
