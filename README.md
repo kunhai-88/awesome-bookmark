@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[JSON Schema 介绍及应用](https://imweb.io/topic/56b1b4bb5c49f9d377ed8ee9)
+
 [12 个令人惊叹的 CSS 项目](https://zhuanlan.zhihu.com/p/58424141?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Web 性能优化： 图片优化让网站大小减少 62%](https://segmentfault.com/a/1190000018392559?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
