@@ -2,6 +2,9 @@
 
 ## 前端技术
 
+
+[深入理解javascript错误处理机制](深入理解javascript错误处理机制)
+
 [JSON Schema 介绍及应用](https://imweb.io/topic/56b1b4bb5c49f9d377ed8ee9)
 
 [12 个令人惊叹的 CSS 项目](https://zhuanlan.zhihu.com/p/58424141?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
