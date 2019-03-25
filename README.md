@@ -238,6 +238,8 @@
 
 [Pornhub，一个神奇的网站](https://mp.weixin.qq.com/s/E7uKf7wu3UFh3IcvYOKp9w)
 
+[创业一年半项目经验分享](https://my.oschina.net/cjlice/blog/3025914?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ## 投资理财
 
 [程序员的房产、金融与第二战场](https://mp.weixin.qq.com/s/T7Z8NZhIJ4WfYAb5K-iy3Q)
