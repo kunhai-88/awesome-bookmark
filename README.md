@@ -2,6 +2,7 @@
 
 ## 前端技术
 
+[Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
 
 [深入理解javascript错误处理机制](深入理解javascript错误处理机制)
 
