@@ -269,6 +269,8 @@
 
 [医学微视](http://www.mvyxws.com/)
 
+[我是一名职业IT培训讲师](https://zhuanlan.zhihu.com/p/60894743?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ## AI
 
 [机器学习入门系列(1)--机器学习概览(上)](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483667&idx=1&sn=c6b6feb241897ede16bd745d595cef92&chksm=fe3b0f66c94c86701e9b071e62750d189c254fd3ebe9bb6251505162139efefdf866093b38c3&token=2134085567&lang=zh_CN&scene=21#wechat_redirect)
