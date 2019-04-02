@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
+
 [Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
 
 [Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
