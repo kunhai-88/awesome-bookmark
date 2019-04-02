@@ -2,7 +2,7 @@
 
 ## 前端技术
 
-[CSP——前端安全第一道防线](https://mp.weixin.qq.com/s?__biz=MzI4MDU2MzYxNg==&mid=100000249&idx=1&sn=7fe983e0d2b0de17ca97f0f671e0d995&chksm=6bb7db365cc0522071406a6c7e08689db388eaf4a573c43b48c0fabd361b4fbecc49e0640d2c#rd)
+[Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
 
 [Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
 
