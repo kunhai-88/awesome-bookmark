@@ -180,6 +180,8 @@
 
 ### docker
 
+[docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
+
 [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 
 [Docker 快速上手指南](https://segmentfault.com/a/1190000008822648)
