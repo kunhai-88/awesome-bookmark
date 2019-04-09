@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[前端跨页面通信，你知道哪些方法？](https://segmentfault.com/a/1190000018731597?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [rrweb：打开 web 页面录制与回放的黑盒子](https://zhuanlan.zhihu.com/p/60639266?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
