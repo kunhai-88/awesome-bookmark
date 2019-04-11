@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[14招搞定JavaScript调试](https://blog.fundebug.com/2017/11/08/14-javascript-debugging-tips/)
+
 [HTML5中手势原理分析与数学知识的实践](https://github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
 
 [你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
