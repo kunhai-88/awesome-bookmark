@@ -239,6 +239,8 @@
 
 ## 互联网
 
+[技术选型指南](https://insights.thoughtworks.cn/choosing-technology-guide/)
+
 [中国互联网20年简史（1998-2018）](https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg)
 
 [腾讯的产品思维VS阿里的终局思维](https://mp.weixin.qq.com/s/SWwX9MP-IQ02k6T7thOISA)
