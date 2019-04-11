@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[你真的理解了MVC, MVP, MVVM吗？](https://mp.weixin.qq.com/s/EzxfJLb5Hjxyw0_S5rThvg)
+
 [14招搞定JavaScript调试](https://blog.fundebug.com/2017/11/08/14-javascript-debugging-tips/)
 
 [HTML5中手势原理分析与数学知识的实践](https://github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
