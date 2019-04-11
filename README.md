@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[HTML5中手势原理分析与数学知识的实践](https://github.com/xd-tayde/blog/blob/master/html5-touch-math.md)
+
 [你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
 [前端跨页面通信，你知道哪些方法？](https://segmentfault.com/a/1190000018731597?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
