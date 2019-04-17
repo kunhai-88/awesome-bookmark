@@ -172,6 +172,8 @@
 
 [为前端工程师准备的 Flutter 入门指南](https://zhuanlan.zhihu.com/p/55329631?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Flutter项目优雅的使用ORM数据库](https://www.jianshu.com/p/a6529a04c979)
+
 ### Nodejs
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
