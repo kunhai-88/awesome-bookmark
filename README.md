@@ -158,6 +158,8 @@
 
 ### Flutter
 
+[Fish Redux中的Dispatch是怎么实现的](https://mp.weixin.qq.com/s/4hJzGPH8OQ6hkthRFuisBQ)
+
 [Flutter自定义绘制Widget初探](https://mp.weixin.qq.com/s/ZwkNS2Fpp9ED4NQgdRTydg)
 
 [为什么说 Flutter 不一定是趋势?](https://mp.weixin.qq.com/s/32e-V9K2-VX97PAYVitUPQ)
