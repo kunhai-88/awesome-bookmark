@@ -158,6 +158,8 @@
 
 ### Flutter
 
+[flutter在2019年会有怎样的表现？](https://www.zhihu.com/question/307594373/answer/653275793)
+
 [Fish Redux中的Dispatch是怎么实现的](https://mp.weixin.qq.com/s/4hJzGPH8OQ6hkthRFuisBQ)
 
 [Flutter自定义绘制Widget初探](https://mp.weixin.qq.com/s/ZwkNS2Fpp9ED4NQgdRTydg)
