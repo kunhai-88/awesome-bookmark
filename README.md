@@ -273,6 +273,8 @@
 
 ## 投资理财
 
+[基金定投一定赚钱吗？](https://www.zhihu.com/question/35163926/answer/626026667)
+
 [程序员的房产、金融与第二战场](https://mp.weixin.qq.com/s/T7Z8NZhIJ4WfYAb5K-iy3Q)
 
 [期权入门篇](https://zhuanlan.zhihu.com/p/29658293)
