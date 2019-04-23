@@ -220,7 +220,7 @@
 
 [再好好聊一聊 HTTP 中的 Cookie 细节](https://mp.weixin.qq.com/s/xc8A2dKlZmPHUhFcAevPxw)
 
-[正则表达](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[正则表达](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 
 [vscode: Visual Studio Code 常用快捷键](http://www.cnblogs.com/bindong/p/6045957.html)
 
