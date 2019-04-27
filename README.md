@@ -259,6 +259,8 @@
 
 ## 互联网
 
+[一对一沟通关系着团队的产出，你重视了吗？](https://mp.weixin.qq.com/s/n6DhzC_k7G7q4QxIIZeqnA)
+
 [技术选型指南](https://insights.thoughtworks.cn/choosing-technology-guide/)
 
 [中国互联网20年简史（1998-2018）](https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg)
