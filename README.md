@@ -160,6 +160,8 @@
 
 ### Flutter
 
+[深入理解Flutter多线程](https://www.jianshu.com/p/54da18ed1a9e)
+
 [Flutter 您需要知道的知识点](https://mp.weixin.qq.com/s/qXNbT-pJ4wnKANhUsyn2xw)
 
 [Flutter在2019年会有怎样的表现？](https://www.zhihu.com/question/307594373/answer/653275793)
