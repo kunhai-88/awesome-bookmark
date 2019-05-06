@@ -315,6 +315,8 @@
 
 [我是一名职业IT培训讲师](https://zhuanlan.zhihu.com/p/60894743?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[学两招，快速准备好一次技术分享](https://mp.weixin.qq.com/s/j3-g1t1R9wF9RlhlN387ew)
+
 ## AI
 
 [个性化推荐技术](https://mp.weixin.qq.com/s/AWQN2338xC8kK-Y_HaJMGA)
