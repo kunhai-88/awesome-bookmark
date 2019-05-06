@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[npm如何管理依赖包的版本](https://www.jianshu.com/p/1470c5d7b8c3)
+
 [优化浏览器前端](https://mp.weixin.qq.com/s/XMZvK7hRz4Fw2srqZXvXAA?)
 
 [你真的理解了MVC, MVP, MVVM吗？](https://mp.weixin.qq.com/s/EzxfJLb5Hjxyw0_S5rThvg)
