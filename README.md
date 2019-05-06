@@ -256,6 +256,8 @@
 
 [不就是个短信登录API嘛，有这么复杂吗？](https://insights.thoughtworks.cn/sms-authentication-login-api/)
 
+[一刻钟学会Go语言](https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg)
+
 ### Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
