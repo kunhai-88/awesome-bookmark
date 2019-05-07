@@ -307,6 +307,8 @@
 
 ## 杂文
 
+[一个“如何变得更靠谱”的小案例](https://mp.weixin.qq.com/s/tagN376k8wjLp7zIPzNMdg)
+
 [努力就会成功](https://coolshell.cn/articles/19271.html)
 
 [如何高效的主持会议](https://www.taohui.pub/821.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
