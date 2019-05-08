@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[JS无形装逼，最为致命](https://mp.weixin.qq.com/s/G7CXpl4ircuoFHt7RBrgNg)
+
 [npm如何管理依赖包的版本](https://www.jianshu.com/p/1470c5d7b8c3)
 
 [优化浏览器前端](https://mp.weixin.qq.com/s/XMZvK7hRz4Fw2srqZXvXAA?)
