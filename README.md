@@ -260,6 +260,8 @@
 
 [一刻钟学会Go语言](https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg)
 
+[Sonic：用Rust编写的Elasticsearch的极简替代品](https://zhuanlan.zhihu.com/p/63963140)
+
 ### Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
