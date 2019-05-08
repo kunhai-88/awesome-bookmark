@@ -336,3 +336,5 @@
 [什么是机器学习](https://mp.weixin.qq.com/s?__biz=MzI5MTQ5NDY1MA==&mid=2247485890&idx=1&sn=771886675309486203cb134cd00ffa0b&chksm=ec0e8657db790f41dec2c53b8b5f0728b697e5cab5be137eadfc83d03746e614f7810bec4484&scene=21&ascene=56&devicetype=android-28&version=2700043a&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQBWmR4AzJkeANyZHgDhmR4A+pkeAAAA&lang=zh_CN&pass_ticket=UHvZ9bMj1c5pGMIaC6utD6VttI46ha+nQHzdEbsn0EpO+kJBvOEXa8P40SWaYfFx&wx_header=1)
 
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
+
+[漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
