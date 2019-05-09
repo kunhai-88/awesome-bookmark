@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[用AOP改善javascript代码](http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/)
+
 [JS无形装逼，最为致命](https://mp.weixin.qq.com/s/G7CXpl4ircuoFHt7RBrgNg)
 
 [npm如何管理依赖包的版本](https://www.jianshu.com/p/1470c5d7b8c3)
