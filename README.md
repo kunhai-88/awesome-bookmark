@@ -204,6 +204,8 @@
 
 ## 计算机技术
 
+[终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
+
 ### GraphQL
 
 [GraphQL到底怎么用？看看这个例子就知道了](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
