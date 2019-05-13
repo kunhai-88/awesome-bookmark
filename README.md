@@ -205,6 +205,7 @@
 ## 计算机技术
 
 [终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
+[数据与广告系列四：搜索广告来源和竞价策略](https://mp.weixin.qq.com/s/hhacNqLgl0oRAgp1ntz3Ag)
 
 ### GraphQL
 
@@ -344,3 +345,4 @@
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
 
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
+
