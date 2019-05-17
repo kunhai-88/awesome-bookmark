@@ -334,6 +334,7 @@
 [我是一名职业IT培训讲师](https://zhuanlan.zhihu.com/p/60894743?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [学两招，快速准备好一次技术分享](https://mp.weixin.qq.com/s/j3-g1t1R9wF9RlhlN387ew)
+[浅谈OKR- 什么是OKR？](https://mp.weixin.qq.com/)
 
 ## AI
 
