@@ -270,6 +270,8 @@
 
 [Sonic：用Rust编写的Elasticsearch的极简替代品](https://zhuanlan.zhihu.com/p/63963140)
 
+[sonic——可替代Elasticsearch的简单搜索引擎](https://www.jianshu.com/p/2cacd95b3416)
+
 [掌握它才说明你真正懂Elasticsearch](https://zhuanlan.zhihu.com/p/63963140)
 
 ### Sentry
