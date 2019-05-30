@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[每个前端工程师都应该了解的图片知识](https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg)
+
 [用AOP改善javascript代码](http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/)
 
 [JS无形装逼，最为致命](https://mp.weixin.qq.com/s/G7CXpl4ircuoFHt7RBrgNg)
