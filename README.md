@@ -325,6 +325,8 @@
 
 ## 杂文
 
+[我珍藏5年的10倍速阅读法](https://mp.weixin.qq.com/s/HNsAXUy0p_zwK5oT86LMGw)
+
 [一个“如何变得更靠谱”的小案例](https://mp.weixin.qq.com/s/tagN376k8wjLp7zIPzNMdg)
 
 [努力就会成功](https://coolshell.cn/articles/19271.html)
