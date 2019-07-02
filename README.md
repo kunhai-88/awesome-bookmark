@@ -211,6 +211,7 @@
 [终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
 [数据与广告系列四：搜索广告来源和竞价策略](https://mp.weixin.qq.com/s/hhacNqLgl0oRAgp1ntz3Ag)
 [英特尔的发家史](https://mp.weixin.qq.com/s/myAwcUFUqa8gaEAYIqGj0A)
+[软件的高质量意味着高成本？](https://insights.thoughtworks.cn/is-quality-worth-cost/)
 
 ### GraphQL
 
