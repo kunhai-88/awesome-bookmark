@@ -1,6 +1,9 @@
 # 书签
 
 ## 前端技术
+
+[手撕排序算法 - 前端进阶必备](https://mp.weixin.qq.com/s/8-A4z2fhoHm2ULXa5rxDiA)
+
 [深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
 
 [关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s/V3UpVZH8AWfSScIRAsr2dw)
