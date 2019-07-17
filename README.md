@@ -224,7 +224,7 @@
 
 [GraphQL到底怎么用？看看这个例子就知道了](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
 
-### docker
+### Docker
 
 [docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
 
@@ -364,6 +364,7 @@
 [机器学习入门系列(1)--机器学习概览(上)](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483667&idx=1&sn=c6b6feb241897ede16bd745d595cef92&chksm=fe3b0f66c94c86701e9b071e62750d189c254fd3ebe9bb6251505162139efefdf866093b38c3&token=2134085567&lang=zh_CN&scene=21#wechat_redirect)
 
 [什么是机器学习](https://mp.weixin.qq.com/s?__biz=MzI5MTQ5NDY1MA==&mid=2247485890&idx=1&sn=771886675309486203cb134cd00ffa0b&chksm=ec0e8657db790f41dec2c53b8b5f0728b697e5cab5be137eadfc83d03746e614f7810bec4484&scene=21&ascene=56&devicetype=android-28&version=2700043a&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQBWmR4AzJkeANyZHgDhmR4A+pkeAAAA&lang=zh_CN&pass_ticket=UHvZ9bMj1c5pGMIaC6utD6VttI46ha+nQHzdEbsn0EpO+kJBvOEXa8P40SWaYfFx&wx_header=1)
+[我眼中的AI简史](https://mp.weixin.qq.com/s/hKmbjCE71IXkXy0yC1orTQ)
 
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
 
