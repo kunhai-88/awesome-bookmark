@@ -219,6 +219,7 @@
 [英特尔的发家史](https://mp.weixin.qq.com/s/myAwcUFUqa8gaEAYIqGj0A)
 [软件的高质量意味着高成本？](https://insights.thoughtworks.cn/is-quality-worth-cost/)
 [测试工程师必须要掌握的linux命令](https://zhuanlan.zhihu.com/p/71596407)
+[你真的懂 crontab 吗？](https://mp.weixin.qq.com/s/eJ4fUH7jQZkiyGdFXolqlw)
 
 ### GraphQL
 
@@ -371,5 +372,3 @@
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
 
 [图数据库：概览](https://mp.weixin.qq.com/s?__biz=MzU2NDg4ODcwOA==&mid=2247483667&idx=1&sn=91be14e2aaab6b99610dd250aaeda2c0&chksm=fc4554f8cb32ddee38f9952bf31b2e1045e61063f6c191243c2728d1bb0be0677d88c0b6c7b0&scene=21#wechat_redirect)
-
-[你真的懂 crontab 吗？](https://mp.weixin.qq.com/s/eJ4fUH7jQZkiyGdFXolqlw)
