@@ -2,6 +2,8 @@
 
 ## 前端技术
 
+[JavaScript：一个屌丝的逆袭](https://mp.weixin.qq.com/s/kXjvV-bwqyr2ULmyL1F-CQ)
+
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
 [手撕排序算法 - 前端进阶必备](https://mp.weixin.qq.com/s/8-A4z2fhoHm2ULXa5rxDiA)
