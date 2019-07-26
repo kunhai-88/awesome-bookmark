@@ -39,6 +39,7 @@
 [Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
 
 [Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
+[Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [深入理解javascript错误处理机制](深入理解javascript错误处理机制)
 
@@ -376,8 +377,4 @@
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
 
 [图数据库：概览](https://mp.weixin.qq.com/s?__biz=MzU2NDg4ODcwOA==&mid=2247483667&idx=1&sn=91be14e2aaab6b99610dd250aaeda2c0&chksm=fc4554f8cb32ddee38f9952bf31b2e1045e61063f6c191243c2728d1bb0be0677d88c0b6c7b0&scene=21#wechat_redirect)
-
-
-## 单元测试
-
-[关于前端开发谈谈单元测试](https://segmentfault.com/a/1190000000317146)
+ 
