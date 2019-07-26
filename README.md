@@ -317,6 +317,9 @@
 
 [创业一年半项目经验分享](https://my.oschina.net/cjlice/blog/3025914?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
+[如何做一个小型公司的技术总监](https://mp.weixin.qq.com/s/QXYi1KLhKcz1hPcJbIMEaA)
+
 ## 投资理财
 
 [基金定投一定赚钱吗？](https://www.zhihu.com/question/35163926/answer/626026667)
