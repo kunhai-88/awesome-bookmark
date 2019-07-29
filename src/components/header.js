@@ -18,14 +18,7 @@ export default compose(
       <Link to={`/`}>
         <img alt="" src={logo} className={styles.Logo} />
       </Link>
-      <div className={styles.UserInfo}>
-        <Link className={styles.UserAction} to={`/login`}>
-          登录
-        </Link>
-        <Link className={styles.UserAction} to={`/register`}>
-          注册
-        </Link>
-      </div>
+       
     </div>
   </header>
 ));
