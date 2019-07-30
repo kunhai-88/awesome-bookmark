@@ -11,6 +11,6 @@ export default compose(
   })
 )(({  }) => (
   <div className={styles.Footer}>
-  首页
+
   </div>
 ));
