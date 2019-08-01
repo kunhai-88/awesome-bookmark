@@ -1,7 +1,7 @@
 # 书签
 
 ## 前端技术
-
+[90% 的应用场景都不需要用WebAssembl](https://mp.weixin.qq.com/s/8lljMRHNMkO_Dj9dtBWd6A)
 [前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
 
 [JavaScript：一个屌丝的逆袭](https://mp.weixin.qq.com/s/kXjvV-bwqyr2ULmyL1F-CQ)
