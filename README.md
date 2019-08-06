@@ -367,6 +367,8 @@
 
 [如何建立自己的个人品牌](https://mp.weixin.qq.com/s/xkWj8Sr2V0z5DDxqwgpkSA)
 
+[用统计学的观点看世界：从找不到东西说起](https://mp.weixin.qq.com/s/W6hSnQPiZD1tKAou3YgDQQ)
+
 ## AI
 
 [动手学深度学习](http://zh.d2l.ai/index.html)
