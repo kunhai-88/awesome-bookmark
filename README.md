@@ -1,6 +1,9 @@
 # 书签
 
 ## 前端技术
+
+[深入理解ESLint](https://mp.weixin.qq.com/s/mLCNgarh95W_tw6YP9qBaQ)
+
 [90% 的应用场景都不需要用WebAssembly](https://mp.weixin.qq.com/s/8lljMRHNMkO_Dj9dtBWd6A)
 [前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
 
