@@ -1,5 +1,3 @@
-# 书签
-
 ## 前端技术
 
 [深入理解ESLint](https://mp.weixin.qq.com/s/mLCNgarh95W_tw6YP9qBaQ)
@@ -168,11 +166,11 @@
 
 [Mathjax与LaTex公式简介](https://www.cnblogs.com/linxd/p/4955530.html)
 
-### Service Worker
+## Service Worker
 
 [构建 Web 应用之 Service Worker 初探](https://www.jianshu.com/p/0e2dee4c77bc)
 
-### Immutable
+## Immutable
 
 [不可变数据](https://segmentfault.com/a/1190000011992645)
 
@@ -182,7 +180,7 @@
 
 [Immutable 常用API简介](https://segmentfault.com/a/1190000010676878)
 
-### Flutter
+## Flutter
 
 [深入理解Flutter多线程](https://www.jianshu.com/p/54da18ed1a9e)
 
@@ -210,7 +208,7 @@
 
 [Flutter项目优雅的使用ORM数据库](https://www.jianshu.com/p/a6529a04c979)
 
-### Nodejs
+## Nodejs
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -232,11 +230,11 @@
 [你真的懂 crontab 吗？](https://mp.weixin.qq.com/s/eJ4fUH7jQZkiyGdFXolqlw)
 [浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)
 
-### GraphQL
+## GraphQL
 
 [GraphQL到底怎么用？看看这个例子就知道了](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
 
-### Docker
+## Docker
 
 [docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
 
@@ -298,7 +296,7 @@
 
 [掌握它才说明你真正懂Elasticsearch](https://zhuanlan.zhihu.com/p/63963140)
 
-### Sentry
+## Sentry
 
 [sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
 [Vue SPA项目 + Sentry 实现前端错误监控](https://juejin.im/post/5adb05fef265da0b79647421)
