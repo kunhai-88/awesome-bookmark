@@ -44,6 +44,8 @@
 [Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
 [Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[WebAssembly到底处于编译阶段的哪个环节？](https://mp.weixin.qq.com/s/anaqamsHSzndny6jQR6cuw)
+
 [深入理解javascript错误处理机制](深入理解javascript错误处理机制)
 
 [JSON Schema 介绍及应用](https://imweb.io/topic/56b1b4bb5c49f9d377ed8ee9)
