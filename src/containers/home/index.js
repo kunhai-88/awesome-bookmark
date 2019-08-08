@@ -1,7 +1,8 @@
 import React from "react";
 import Card from 'antd/lib/card';
-import data from '../../config.json';
 import { compose, setDisplayName, withHandlers } from "recompose";
+import { map, prop } from 'lodash/fp';
+import data from '../../config.json';
 import styles from "./style.less";
 
 console.log(data);
@@ -15,13 +16,16 @@ export default compose(
   })
 )(({  }) => (
   <div className={styles.Home}>
-  <Card
+  {map((column)=><Card
     hoverable
-    title="Card title"
-    style={{ width: 240 }}
+    title={prop('title')(column)}
+    className={styles.Card}
+    
   >
-     
-  </Card>,
+     {map((item)=>(
+       <a className={styles.Link} href={prop('link')(item)}>{prop('title')(item)}</a>
+     ))(prop('children')(column))}
+  </Card>)(data)}
 
   </div>
 ));
