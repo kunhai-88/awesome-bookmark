@@ -45,6 +45,11 @@
     "start": "better-npm-run md2json && better-npm-run start",
     "md2json": "better-npm-run md2json"
   },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm test"
+    }
+  },
   "betterScripts": {
     "build": {
       "command": "babel-node --max_old_space_size=4096 ./node_modules/webpack-cli/bin/cli.js --config ./webpack.js --progress --colors --display-error-details",
@@ -76,5 +81,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "husky": "^3.0.3"
   }
 }

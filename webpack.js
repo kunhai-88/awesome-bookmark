@@ -93,7 +93,7 @@ const config = {
   },
 
   output: {
-    path: path.resolve(__dirname, './dist'),
+    path: path.resolve(__dirname, './docs'),
     publicPath:  '/',
     filename: '[name].[hash].bundle.js',
     chunkFilename: '[name].[hash].bundle.js',
@@ -130,7 +130,7 @@ const config = {
   cache: DEBUG,
   devtool: DEBUG ? 'inline-source-map' : false,
   devServer: {
-    contentBase: [path.resolve(__dirname, './dist'),path.resolve(__dirname, './public')],
+    contentBase: [path.resolve(__dirname, './docs'),path.resolve(__dirname, './public')],
     inline: true,
     compress: true,
     port: 8900,
