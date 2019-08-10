@@ -188,10 +188,6 @@ const config = {
         },postcssLoader, {
           loader: 'less-loader', // compiles Less to CSS
           options: {
-            modifyVars: {
-              'primary-color': '#2bb656',
-              'link-color': '#2bb656',
-            },
             javascriptEnabled: true 
           },
         }],
@@ -207,10 +203,6 @@ const config = {
           loader: 'less-loader', // compiles Less to CSS
           options: { 
             javascriptEnabled: true,
-            modifyVars: {
-              'primary-color': '#2bb656',
-              'link-color': '#2bb656',
-            },
           },
         }],
       },
