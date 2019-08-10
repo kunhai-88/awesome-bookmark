@@ -1,14 +1,12 @@
-# 书签
-
 ## 前端技术
+
+[深入理解ESLint](https://mp.weixin.qq.com/s/mLCNgarh95W_tw6YP9qBaQ)
+
+[前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
 
 [JavaScript：一个屌丝的逆袭](https://mp.weixin.qq.com/s/kXjvV-bwqyr2ULmyL1F-CQ)
 
-[V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
-
 [手撕排序算法 - 前端进阶必备](https://mp.weixin.qq.com/s/8-A4z2fhoHm2ULXa5rxDiA)
-
-[深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
 
 [关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s/V3UpVZH8AWfSScIRAsr2dw)
 
@@ -19,8 +17,6 @@
 [JS无形装逼，最为致命](https://mp.weixin.qq.com/s/G7CXpl4ircuoFHt7RBrgNg)
 
 [npm如何管理依赖包的版本](https://www.jianshu.com/p/1470c5d7b8c3)
-
-[优化浏览器前端](https://mp.weixin.qq.com/s/XMZvK7hRz4Fw2srqZXvXAA?)
 
 [你真的理解了MVC, MVP, MVVM吗？](https://mp.weixin.qq.com/s/EzxfJLb5Hjxyw0_S5rThvg)
 
@@ -34,12 +30,8 @@
 
 [rrweb：打开 web 页面录制与回放的黑盒子](https://zhuanlan.zhihu.com/p/60639266?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
 
 [Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html)
-
-[Serverless](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
-[Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [深入理解javascript错误处理机制](深入理解javascript错误处理机制)
 
@@ -67,13 +59,10 @@
 
 [前端模块化详解(完整版)](https://github.com/ljianshu/Blog/issues/48?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[停止学习框架](https://zhuanlan.zhihu.com/p/52814937#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [为什么前端监控要用GIF打点](https://mp.weixin.qq.com/s/v6R2w26qZkEilXY0mPUBCw)
 
 [像写作一样去写代码，如何把异步的形式改写成同步的形式](https://mp.weixin.qq.com/s/9ZJBCKU0ByKaBrkf68cDsw)
-
-[浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [console的那些事儿](https://zhuanlan.zhihu.com/p/51724985?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -115,8 +104,6 @@
 
 [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/)
 
-[如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/#101)
-
 [图解 React](https://mp.weixin.qq.com/s/P5239PpBoGPyvJ9z84Q1Mg)
 
 [反击爬虫，前端工程师的脑洞可以有多大？](http://litten.me/2017/07/09/prevent-spiders/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -127,7 +114,7 @@
 
 [JS高程中的垃圾回收机制与常见内存泄露的解决方法](http://obkoro1.com/2018/07/08/JS%E9%AB%98%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%B8%B8%E8%A7%81%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/#more)
 
-[前段进阶必备：JavaScript 内存机制](https://mp.weixin.qq.com/s/wumZseCfba4XaDbAFwFdwA)
+[JavaScript 内存机制](https://mp.weixin.qq.com/s/wumZseCfba4XaDbAFwFdwA)
 
 [JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏](https://segmentfault.com/a/1190000017392370?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -151,8 +138,6 @@
 
 [合并HTTP请求 vs 并行HTTP请求，到底谁更快？](https://mp.weixin.qq.com/s/iwpRWwyv7AWXTdELHdqUKg)
 
-[浏览器数据库 IndexedDB 入门教程](http://www.ruanyifeng.com/blog/2018/07/indexeddb.html)
-
 [Web框架的架构模式探讨（JavaScript语言）](https://zhuanlan.zhihu.com/p/36925127?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [你需要了解的23种JavaScript设计模式](https://mp.weixin.qq.com/s/Ov62U8kktVv7Jz0Ukhekkg)
@@ -163,11 +148,28 @@
 
 [Mathjax与LaTex公式简介](https://www.cnblogs.com/linxd/p/4955530.html)
 
-### Service Worker
+## Serverless
+
+[Serverless 风暴来袭，前端工程师如何应对？](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
+
+[Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+## 浏览器
+[V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
+
+[深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
+
+[浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[浏览器数据库 IndexedDB 入门教程](http://www.ruanyifeng.com/blog/2018/07/indexeddb.html)
+
+[优化浏览器前端](https://mp.weixin.qq.com/s/XMZvK7hRz4Fw2srqZXvXAA?)
+
+## Service Worker
 
 [构建 Web 应用之 Service Worker 初探](https://www.jianshu.com/p/0e2dee4c77bc)
 
-### Immutable
+## Immutable
 
 [不可变数据](https://segmentfault.com/a/1190000011992645)
 
@@ -177,7 +179,7 @@
 
 [Immutable 常用API简介](https://segmentfault.com/a/1190000010676878)
 
-### Flutter
+## Flutter
 
 [深入理解Flutter多线程](https://www.jianshu.com/p/54da18ed1a9e)
 
@@ -205,7 +207,9 @@
 
 [Flutter项目优雅的使用ORM数据库](https://www.jianshu.com/p/a6529a04c979)
 
-### Nodejs
+## Nodejs
+[如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/#101)
+
 
 [用Node.js开发一个Command Line Interface (CLI)](https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -215,22 +219,93 @@
 
 [api 接口管理工具](https://segmentfault.com/a/1190000017893659?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+## WebAssembly
+[90% 的应用场景都不需要用WebAssembly](https://mp.weixin.qq.com/s/8lljMRHNMkO_Dj9dtBWd6A)
+
+[WebAssembly到底处于编译阶段的哪个环节？](https://mp.weixin.qq.com/s/anaqamsHSzndny6jQR6cuw)
+
+## 搜索
+[终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
+
+[数据与广告系列四：搜索广告来源和竞价策略](https://mp.weixin.qq.com/s/hhacNqLgl0oRAgp1ntz3Ag)
+
+[Sonic：用Rust编写的Elasticsearch的极简替代品](https://zhuanlan.zhihu.com/p/63963140)
+
+[Sonic——可替代Elasticsearch的简单搜索引擎](https://www.jianshu.com/p/2cacd95b3416)
+
+[掌握它才说明你真正懂Elasticsearch](https://zhuanlan.zhihu.com/p/63963140)
+
 ## 计算机技术
 
+[停止学习框架](https://zhuanlan.zhihu.com/p/52814937#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 [终于有人把中台说清楚了](https://mp.weixin.qq.com/s/aHJ9NZGgN8F9MWQIr9AjmA)
+
 [不做中台会死吗？](https://mp.weixin.qq.com/)
-[终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
-[数据与广告系列四：搜索广告来源和竞价策略](https://mp.weixin.qq.com/s/hhacNqLgl0oRAgp1ntz3Ag)
+
 [英特尔的发家史](https://mp.weixin.qq.com/s/myAwcUFUqa8gaEAYIqGj0A)
+
 [软件的高质量意味着高成本？](https://insights.thoughtworks.cn/is-quality-worth-cost/)
+
 [测试工程师必须要掌握的linux命令](https://zhuanlan.zhihu.com/p/71596407)
+
 [你真的懂 crontab 吗？](https://mp.weixin.qq.com/s/eJ4fUH7jQZkiyGdFXolqlw)
 
-### GraphQL
+
+[图数据库：概览](https://mp.weixin.qq.com/s?__biz=MzU2NDg4ODcwOA==&mid=2247483667&idx=1&sn=91be14e2aaab6b99610dd250aaeda2c0&chksm=fc4554f8cb32ddee38f9952bf31b2e1045e61063f6c191243c2728d1bb0be0677d88c0b6c7b0&scene=21#wechat_redirect)
+ 
+[图算法：概览](https://mp.weixin.qq.com/s/SbCdtsjepAedJXqUI0MRMw)
+
+[漫话：如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA)
+
+
+[原前缀树和后缀树](https://blog.csdn.net/u013949069/article/details/78056102)
+
+[正则表达](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+
+[vscode: Visual Studio Code 常用快捷键](http://www.cnblogs.com/bindong/p/6045957.html)
+
+
+[浅谈 MVC、MVP 和 MVVM 架构模式](https://draveness.me/mvx?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[从项目工程化的角度，谈一下 MVC 与 MVVM](https://mp.weixin.qq.com/s/uKu5duM81HDJlHqOaJCsBg)
+
+[Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+[如何使用rsync命令](https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw)
+
+[数字世界中的纸张——理解 PDF](https://type.cyhsu.xyz/2018/09/understanding-pdf-the-digitalized-paper/)
+
+[数据库索引是什么？新华字典来帮你](https://zhuanlan.zhihu.com/p/57359378?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[各种算法的动态演示网站](https://visualgo.net/zh)
+
+[不就是个短信登录API嘛，有这么复杂吗？](https://insights.thoughtworks.cn/sms-authentication-login-api/)
+
+[一刻钟学会Go语言](https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg)
+
+
+## Http
+[HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
+
+[鲜为人知的HTTP协议头字段详解大全](https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg)
+
+[再好好聊一聊 HTTP 中的 Cookie 细节](https://mp.weixin.qq.com/s/xc8A2dKlZmPHUhFcAevPxw)
+
+[HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+
+[GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+
+
+[浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)
+
+
+## GraphQL
 
 [GraphQL到底怎么用？看看这个例子就知道了](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
 
-### Docker
+## Docker
 
 [docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
 
@@ -244,58 +319,20 @@
 
 [docker-compose.yml 语法说明](https://www.cnblogs.com/freefei/p/5311294.html)
 
-[漫话：如何给女朋友解释什么是并发和并行](https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA)
 
-[HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
+## Devops
 
-[鲜为人知的HTTP协议头字段详解大全](https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg)
+[sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
 
-[原前缀树和后缀树](https://blog.csdn.net/u013949069/article/details/78056102)
-
-[再好好聊一聊 HTTP 中的 Cookie 细节](https://mp.weixin.qq.com/s/xc8A2dKlZmPHUhFcAevPxw)
-
-[正则表达](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
-
-[vscode: Visual Studio Code 常用快捷键](http://www.cnblogs.com/bindong/p/6045957.html)
-
-[Git的奇技淫巧](https://github.com/521xueweihan/git-tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[浅谈 MVC、MVP 和 MVVM 架构模式](https://draveness.me/mvx?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[从项目工程化的角度，谈一下 MVC 与 MVVM](https://mp.weixin.qq.com/s/uKu5duM81HDJlHqOaJCsBg)
-
-[深入理解git merge 和 git rebase](https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4)
-
-[Base64 你可能不知道的几个细节](https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
-
-[GET和POST的区别](https://segmentfault.com/a/1190000018129846)
-
-[如何使用rsync命令](https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw)
+[Vue SPA项目 + Sentry 实现前端错误监控](https://juejin.im/post/5adb05fef265da0b79647421)
 
 [Jenkins 学习使用实践](https://www.jianshu.com/p/55df42bc57ec?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[数字世界中的纸张——理解 PDF](https://type.cyhsu.xyz/2018/09/understanding-pdf-the-digitalized-paper/)
+[Git的奇技淫巧](https://github.com/521xueweihan/git-tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[数据库索引是什么？新华字典来帮你](https://zhuanlan.zhihu.com/p/57359378?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
 
-[各种算法的动态演示网站](https://visualgo.net/zh)
-
-[不就是个短信登录API嘛，有这么复杂吗？](https://insights.thoughtworks.cn/sms-authentication-login-api/)
-
-[一刻钟学会Go语言](https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg)
-
-[Sonic：用Rust编写的Elasticsearch的极简替代品](https://zhuanlan.zhihu.com/p/63963140)
-
-[sonic——可替代Elasticsearch的简单搜索引擎](https://www.jianshu.com/p/2cacd95b3416)
-
-[掌握它才说明你真正懂Elasticsearch](https://zhuanlan.zhihu.com/p/63963140)
-
-### Sentry
-
-[sentry使用实践](https://www.jianshu.com/p/66e00077fac3)
-[Vue SPA项目 + Sentry 实现前端错误监控](https://juejin.im/post/5adb05fef265da0b79647421)
+[深入理解git merge 和 git rebase](https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4)s
 
 ## 互联网
 
@@ -364,6 +401,8 @@
 
 [如何建立自己的个人品牌](https://mp.weixin.qq.com/s/xkWj8Sr2V0z5DDxqwgpkSA)
 
+[用统计学的观点看世界：从找不到东西说起](https://mp.weixin.qq.com/s/W6hSnQPiZD1tKAou3YgDQQ)
+
 ## AI
 
 [动手学深度学习](http://zh.d2l.ai/index.html)
@@ -373,12 +412,9 @@
 [机器学习入门系列(1)--机器学习概览(上)](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483667&idx=1&sn=c6b6feb241897ede16bd745d595cef92&chksm=fe3b0f66c94c86701e9b071e62750d189c254fd3ebe9bb6251505162139efefdf866093b38c3&token=2134085567&lang=zh_CN&scene=21#wechat_redirect)
 
 [什么是机器学习](https://mp.weixin.qq.com/s?__biz=MzI5MTQ5NDY1MA==&mid=2247485890&idx=1&sn=771886675309486203cb134cd00ffa0b&chksm=ec0e8657db790f41dec2c53b8b5f0728b697e5cab5be137eadfc83d03746e614f7810bec4484&scene=21&ascene=56&devicetype=android-28&version=2700043a&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQBWmR4AzJkeANyZHgDhmR4A+pkeAAAA&lang=zh_CN&pass_ticket=UHvZ9bMj1c5pGMIaC6utD6VttI46ha+nQHzdEbsn0EpO+kJBvOEXa8P40SWaYfFx&wx_header=1)
+
 [我眼中的AI简史](https://mp.weixin.qq.com/s/hKmbjCE71IXkXy0yC1orTQ)
 
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
 
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
-
-[图数据库：概览](https://mp.weixin.qq.com/s?__biz=MzU2NDg4ODcwOA==&mid=2247483667&idx=1&sn=91be14e2aaab6b99610dd250aaeda2c0&chksm=fc4554f8cb32ddee38f9952bf31b2e1045e61063f6c191243c2728d1bb0be0677d88c0b6c7b0&scene=21#wechat_redirect)
- 
-[图算法：概览](https://mp.weixin.qq.com/s/SbCdtsjepAedJXqUI0MRMw)

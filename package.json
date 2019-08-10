@@ -1,12 +1,80 @@
 {
-  "name": "awesome-photos",
-  "version": "1.0.0",
-  "description": "> An awesome project.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "docsify serve ./ -p 3018"
+  "name": "bookmark",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@dimerapp/markdown": "^3.2.0",
+    "antd": "^3.17.0",
+    "autoprefixer": "^9.5.1",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-lodash": "^3.3.4",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "better-npm-run": "^0.1.1",
+    "classnames": "^2.2.6",
+    "clean-webpack-plugin": "^2.0.2",
+    "css-loader": "^2.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "lodash": "^4.17.11",
+    "mini-css-extract-plugin": "^0.6.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1"
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "build": "better-npm-run md2json && better-npm-run build",
+    "start": "better-npm-run md2json && better-npm-run start",
+    "md2json": "better-npm-run md2json"
+  },
+  "betterScripts": {
+    "build": {
+      "command": "babel-node --max_old_space_size=4096 ./node_modules/webpack-cli/bin/cli.js --config ./webpack.js --progress --colors --display-error-details",
+      "env": {
+        "mode": "production"
+      }
+    },
+    "md2json": {
+      "command": "babel-node --max_old_space_size=4096 ./md-to-json.js"
+    },
+    "start": {
+      "command": "babel-node --max_old_space_size=4096  ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --config ./webpack.js --color",
+      "env": {
+        "mode": "development"
+      }
+    }
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
