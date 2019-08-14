@@ -47,7 +47,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm test"
+      "pre-push": "npm run build"
     }
   },
   "betterScripts": {
