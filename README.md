@@ -1,5 +1,7 @@
 ## 前端技术
 
+[常见数据结构和Javascript实现总结](https://segmentfault.com/a/1190000020011987)
+
 [深入理解ESLint](https://mp.weixin.qq.com/s/mLCNgarh95W_tw6YP9qBaQ)
 
 [前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
