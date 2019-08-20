@@ -3,6 +3,10 @@
     "title": "前端技术",
     "children": [
       {
+        "title": "JavaScript 数组的演进及其性能",
+        "link": "https://www.zcfy.cc/article/diving-deep-into-javascript-array-8211-evolution-038-performance-void-canvas"
+      },
+      {
         "title": "常见数据结构和Javascript实现总结",
         "link": "https://segmentfault.com/a/1190000020011987"
       },
