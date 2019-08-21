@@ -241,6 +241,8 @@
 
 ## 计算机技术
 
+[面向对象设计之魂的六大原则](https://zhuanlan.zhihu.com/p/58092071)
+
 [停止学习框架](https://zhuanlan.zhihu.com/p/52814937#at?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [终于有人把中台说清楚了](https://mp.weixin.qq.com/s/aHJ9NZGgN8F9MWQIr9AjmA)
