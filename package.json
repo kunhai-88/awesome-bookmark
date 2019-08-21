@@ -41,7 +41,7 @@
     "webpack-dev-server": "^3.3.1"
   },
   "scripts": {
-    "build": "better-npm-run md2json && better-npm-run build",
+    "build": "better-npm-run md2json && better-npm-run build && cpy public/icon.png docs",
     "start": "better-npm-run md2json && better-npm-run start",
     "md2json": "better-npm-run md2json"
   },
@@ -83,6 +83,7 @@
     ]
   },
   "devDependencies": {
+    "cpy-cli": "^2.0.0",
     "husky": "^3.0.3"
   }
 }
