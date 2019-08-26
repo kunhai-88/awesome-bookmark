@@ -47,7 +47,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm run md2json"
+      "pre-push": "npm run build"
     }
   },
   "betterScripts": {
