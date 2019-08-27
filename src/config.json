@@ -3,6 +3,10 @@
     "title": "前端技术",
     "children": [
       {
+        "title": "你必须懂的前端性能优化",
+        "link": "https://segmentfault.com/a/1190000019897234"
+      },
+      {
         "title": "一文带你解锁Web应用中的图片优化技巧！",
         "link": "https://mp.weixin.qq.com/s/HedCrnFQOSHLZuKqtDB3uA"
       },
