@@ -1,5 +1,7 @@
 ## 前端技术
 
+[你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
+
 [一文带你解锁Web应用中的图片优化技巧！](https://mp.weixin.qq.com/s/HedCrnFQOSHLZuKqtDB3uA)
 
 [JavaScript 数组的演进及其性能](https://www.zcfy.cc/article/diving-deep-into-javascript-array-8211-evolution-038-performance-void-canvas)
