@@ -1,5 +1,7 @@
 ## 前端技术
 
+[JS基础-函数、对象和原型、原型链的关系](https://mp.weixin.qq.com/s/Rmz7UYcDDW-naxtpXM3XMg)
+
 [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
 
 [一文带你解锁Web应用中的图片优化技巧！](https://mp.weixin.qq.com/s/HedCrnFQOSHLZuKqtDB3uA)
