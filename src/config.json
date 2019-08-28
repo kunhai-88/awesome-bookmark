@@ -3,6 +3,10 @@
     "title": "前端技术",
     "children": [
       {
+        "title": "「2019 JSConf.Asia - Kas Perch」WebAssembly - JS 的未来和 Web 多语言开发",
+        "link": "https://juejin.im/post/5d4b17b0f265da03c926e436"
+      },
+      {
         "title": "JS基础-函数、对象和原型、原型链的关系",
         "link": "https://mp.weixin.qq.com/s/Rmz7UYcDDW-naxtpXM3XMg"
       },

@@ -1,5 +1,7 @@
 ## 前端技术
 
+[「2019 JSConf.Asia - Kas Perch」WebAssembly - JS 的未来和 Web 多语言开发](https://juejin.im/post/5d4b17b0f265da03c926e436)
+
 [JS基础-函数、对象和原型、原型链的关系](https://mp.weixin.qq.com/s/Rmz7UYcDDW-naxtpXM3XMg)
 
 [你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
