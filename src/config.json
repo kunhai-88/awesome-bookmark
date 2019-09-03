@@ -713,6 +713,10 @@
         "link": "https://insights.thoughtworks.cn/choosing-technology-guide/"
       },
       {
+        "title": "大型互联网架构演化简史",
+        "link": "http://www.geekhalo.com/2019/09/01/architecture/evolution/?"
+      },
+      {
         "title": "中国互联网20年简史（1998-2018）",
         "link": "https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg"
       },
@@ -871,6 +875,15 @@
       {
         "title": "漫画人工智能：啥是机器学习？",
         "link": "https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A"
+      }
+    ]
+  },
+  {
+    "title": "管理",
+    "children": [
+      {
+        "title": "试用期才是真正的考察时间",
+        "link": "https://mp.weixin.qq.com/s/_vV9gsNUV_HU6D2fFbXSRg"
       }
     ]
   }

@@ -434,3 +434,8 @@
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
 
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
+
+
+## 管理
+
+[试用期才是真正的考察时间](https://mp.weixin.qq.com/s/_vV9gsNUV_HU6D2fFbXSRg)
