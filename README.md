@@ -439,3 +439,7 @@
 ## 管理
 
 [试用期才是真正的考察时间](https://mp.weixin.qq.com/s/_vV9gsNUV_HU6D2fFbXSRg)
+
+[总结几点“上不得台面”的技术领导经验](https://mp.weixin.qq.com/s/XXSkDygqm2RY8YqmJCyJWw)
+
+
