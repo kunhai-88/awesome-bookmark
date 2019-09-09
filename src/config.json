@@ -648,6 +648,19 @@
     ]
   },
   {
+    "title": "Progressive Web App (PWA)",
+    "children": [
+      {
+        "title": "PWA文档",
+        "link": "https://lavas.baidu.com/pwa"
+      },
+      {
+        "title": "PWA 登陆 iOS 了，但它还有这些缺陷",
+        "link": "https://www.infoq.cn/article/progressive-web-apps-on-ios-are-here"
+      }
+    ]
+  },
+  {
     "title": "Docker",
     "children": [
       {
