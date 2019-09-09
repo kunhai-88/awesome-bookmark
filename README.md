@@ -327,6 +327,8 @@
 
 [A Few Tips That Will Make Your PWA on iOS Feel Like Native](https://www.netguru.com/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native)
 
+[谨慎处理 Service Worker 的更新](https://zhuanlan.zhihu.com/p/51118741)
+
 ## Docker
 
 [docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
