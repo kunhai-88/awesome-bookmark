@@ -657,6 +657,10 @@
       {
         "title": "A Few Tips That Will Make Your PWA on iOS Feel Like Native",
         "link": "https://www.netguru.com/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native"
+      },
+      {
+        "title": "谨慎处理 Service Worker 的更新",
+        "link": "https://zhuanlan.zhihu.com/p/51118741"
       }
     ]
   },
