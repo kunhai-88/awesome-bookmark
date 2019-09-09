@@ -1,13 +1,5 @@
 import React from "react";
 import { Layout } from "antd";
-import {
-  compose,
-  pure,
-  withHandlers,
-  withProps,
-  withState,
-  setDisplayName
-} from "recompose";
 import { BrowserRouter as Router } from "react-router-dom";
 import Header from "../../components/header";
 import Footer from "../../components/footer";
@@ -15,10 +7,7 @@ import styles from "./index.less";
 
 const { Content } = Layout;
 
-export default compose(
-  pure,
-  setDisplayName(__filename)
-)(({ children }) => (
+export default ({ children }) => (
   <Router>
     <Layout className={styles.Layout}>
       <Header />
@@ -28,4 +17,4 @@ export default compose(
       </Footer>
     </Layout>
   </Router>
-));
+);
