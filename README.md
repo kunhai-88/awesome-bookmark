@@ -327,6 +327,8 @@
 
 [PWA 登陆 iOS 了，但它还有这些缺陷](https://www.infoq.cn/article/progressive-web-apps-on-ios-are-here)
 
+[A Few Tips That Will Make Your PWA on iOS Feel Like Native](https://www.netguru.com/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native)
+
 ## Docker
 
 [docker镜像瘦身&优化](https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios)
