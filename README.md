@@ -1,5 +1,7 @@
 ## 前端技术
 
+[循序渐进掌握 JavaScript 函数的进阶指南](https://mp.weixin.qq.com/s/ab6Cgcq-PIXEnJxJ-6WiFg)
+ 
 [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
 
 [JS基础-函数、对象和原型、原型链的关系](https://mp.weixin.qq.com/s/Rmz7UYcDDW-naxtpXM3XMg)
