@@ -160,6 +160,8 @@
 
 ## Serverless
 
+[Serverless 基本概念入门](https://zhuanlan.zhihu.com/p/78250791)
+
 [Serverless 风暴来袭，前端工程师如何应对？](https://mp.weixin.qq.com/s/wMA2gS4QWhCft6dS7zJvTQ)
 
 [Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
