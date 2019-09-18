@@ -1,5 +1,7 @@
 ## 前端技术
 
+[十大npm最佳安全指南，教你如何避免安全漏洞！](https://mp.weixin.qq.com/s/M0ggyPcBDrdkjKQAOgvRkw)
+
 [循序渐进掌握 JavaScript 函数的进阶指南](https://mp.weixin.qq.com/s/ab6Cgcq-PIXEnJxJ-6WiFg)
  
 [高频JavaScript手写面试题及答案](https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA)
