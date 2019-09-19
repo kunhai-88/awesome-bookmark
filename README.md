@@ -403,6 +403,8 @@
 
 [远望资本程浩：资本寒冬下的创业真相](https://mp.weixin.qq.com/s/rk9gHBljuqB3XJNJ2R1Crg)
 
+[95岁芒格最新演讲：人们都以为具备常识很简单，其实很难](https://mp.weixin.qq.com/s/i0ywnHBbf_TZcAyDSLk1Hg)
+
 ## 设计
 
 [9个小知识教你更好的理解动画原则，提升动效品质](https://mp.weixin.qq.com/s/6aIN1LcLyXd2KP4sf05U3w)
