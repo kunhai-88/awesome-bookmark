@@ -461,3 +461,5 @@
 [总结几点“上不得台面”的技术领导经验](https://mp.weixin.qq.com/s/XXSkDygqm2RY8YqmJCyJWw)
 
 
+## 基金
+[如果基金经理也有大白马，那还买啥茅台啊！？](https://mp.weixin.qq.com/s/Lsf_gUPrn_fuMdHgl9z6PA)
