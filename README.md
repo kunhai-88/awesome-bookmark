@@ -1,4 +1,6 @@
 ## 前端技术
+ 
+[浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
 
 [js "私人定制"CLI工具](https://zhuanlan.zhihu.com/p/84397064)
 
