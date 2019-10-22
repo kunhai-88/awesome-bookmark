@@ -246,6 +246,8 @@
 
 [「2019 JSConf.Asia - Kas Perch」WebAssembly - JS 的未来和 Web 多语言开发](https://juejin.im/post/5d4b17b0f265da03c926e436)
 
+[WebAssembly完全入门：了解wasm的前世今身](https://mp.weixin.qq.com/s/68PRzQ4vuNFjI74fWSYrvw)
+
 ## 搜索
 [终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
 
@@ -464,7 +466,13 @@
 
 [总结几点“上不得台面”的技术领导经验](https://mp.weixin.qq.com/s/XXSkDygqm2RY8YqmJCyJWw)
 
+[认知的高度 = 人生的高度](https://mp.weixin.qq.com/s/iQ7o1If_TZtluTbcUqUJUA)
+
 
 ## 基金
 
 [如果基金经理也有大白马，那还买啥茅台啊！？](https://mp.weixin.qq.com/s/Lsf_gUPrn_fuMdHgl9z6PA)
+
+[第一指数 | 定投：聪明的投资者还是懒人神器？](https://mp.weixin.qq.com/s/OZa7eZcI_5Ki_-ffwyw7iQ)
+
+[https://mp.weixin.qq.com/s/2Sr8d-xlgRJisqTNIsstdw](https://mp.weixin.qq.com/s/2Sr8d-xlgRJisqTNIsstdw)
