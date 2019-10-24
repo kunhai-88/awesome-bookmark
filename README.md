@@ -26,8 +26,6 @@
 
 [JavaScript：一个屌丝的逆袭](https://mp.weixin.qq.com/s/kXjvV-bwqyr2ULmyL1F-CQ)
 
-[手撕排序算法 - 前端进阶必备](https://mp.weixin.qq.com/s/8-A4z2fhoHm2ULXa5rxDiA)
-
 [关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s/V3UpVZH8AWfSScIRAsr2dw)
 
 [每个前端工程师都应该了解的图片知识](https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg)
