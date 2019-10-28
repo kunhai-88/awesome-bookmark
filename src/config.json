@@ -3,6 +3,10 @@
     "title": "前端技术",
     "children": [
       {
+        "title": "现代浏览器观察者 Observer API 指南",
+        "link": "https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA"
+      },
+      {
         "title": "浅谈React Fiber",
         "link": "https://segmentfault.com/a/1190000020035950"
       },
