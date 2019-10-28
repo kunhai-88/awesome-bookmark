@@ -1,5 +1,7 @@
 ## 前端技术
  
+[现代浏览器观察者 Observer API 指南](https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA)
+
 [浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
 
 [js "私人定制"CLI工具](https://zhuanlan.zhihu.com/p/84397064)
