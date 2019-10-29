@@ -616,16 +616,25 @@
         "link": "https://zhuanlan.zhihu.com/p/57359378?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "各种算法的动态演示网站",
-        "link": "https://visualgo.net/zh"
-      },
-      {
         "title": "不就是个短信登录API嘛，有这么复杂吗？",
         "link": "https://insights.thoughtworks.cn/sms-authentication-login-api/"
       },
       {
         "title": "一刻钟学会Go语言",
         "link": "https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg"
+      }
+    ]
+  },
+  {
+    "title": "算法",
+    "children": [
+      {
+        "title": "各种算法的动态演示网站",
+        "link": "https://visualgo.net/zh"
+      },
+      {
+        "title": "聊聊算法之递归",
+        "link": "https://coolcao.com/2019/10/21/recursion/"
       }
     ]
   },
