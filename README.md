@@ -248,6 +248,8 @@
 
 [WebAssembly完全入门：了解wasm的前世今身](https://mp.weixin.qq.com/s/68PRzQ4vuNFjI74fWSYrvw)
 
+[WebAssembly在性能及加密场景的深度探索](https://mp.weixin.qq.com/s/ab9Ww2NlwYdShhiXkl1eKA)
+
 ## 搜索
 [终于有人把Elasticsearch原理讲透了！](https://zhuanlan.zhihu.com/p/62892586)
 
