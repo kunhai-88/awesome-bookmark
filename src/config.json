@@ -3,6 +3,10 @@
     "title": "前端技术",
     "children": [
       {
+        "title": "在前端身边的设计模式",
+        "link": "https://www.jianshu.com/p/f1328d7bb3e2"
+      },
+      {
         "title": "现代浏览器观察者 Observer API 指南",
         "link": "https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA"
       },
@@ -827,6 +831,10 @@
       {
         "title": "如何做一个小型公司的技术总监",
         "link": "https://mp.weixin.qq.com/s/QXYi1KLhKcz1hPcJbIMEaA"
+      },
+      {
+        "title": "对开发人员有用的定律、理论、原则和模式",
+        "link": "http://www.liangsonghua.me/archives/1074"
       }
     ]
   },
