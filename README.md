@@ -412,6 +412,8 @@
 
 [如何做一个小型公司的技术总监](https://mp.weixin.qq.com/s/QXYi1KLhKcz1hPcJbIMEaA)
 
+[对开发人员有用的定律、理论、原则和模式](http://www.liangsonghua.me/archives/1074)
+
 ## 投资理财
 
 [基金定投一定赚钱吗？](https://www.zhihu.com/question/35163926/answer/626026667)
