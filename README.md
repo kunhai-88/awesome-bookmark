@@ -1,5 +1,7 @@
 ## 前端技术
  
+[在前端身边的设计模式](https://www.jianshu.com/p/f1328d7bb3e2)
+
 [现代浏览器观察者 Observer API 指南](https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA)
 
 [浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
