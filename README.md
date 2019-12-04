@@ -385,7 +385,9 @@
 
 [前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
 
-[深入理解git merge 和 git rebase](https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4)s
+[深入理解git merge 和 git rebase](https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4)
+
+[Git 常见问题及解决办法](https://quickapp.lovejade.cn/git-common-problems-and-solutions/)
 
 ## 互联网
 
