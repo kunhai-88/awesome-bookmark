@@ -467,6 +467,15 @@
     ]
   },
   {
+    "title": "微前端",
+    "children": [
+      {
+        "title": "网易严选企业级微前端解决方案与落地实践",
+        "link": "https://mp.weixin.qq.com/s/x2N-Y5xZV-XbrqxDT_wLKA"
+      }
+    ]
+  },
+  {
     "title": "Nodejs",
     "children": [
       {
