@@ -4,8 +4,6 @@
 
 [现代浏览器观察者 Observer API 指南](https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA)
 
-[浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
-
 [js "私人定制"CLI工具](https://zhuanlan.zhihu.com/p/84397064)
 
 [十大npm最佳安全指南，教你如何避免安全漏洞！](https://mp.weixin.qq.com/s/M0ggyPcBDrdkjKQAOgvRkw)
@@ -154,6 +152,11 @@
 [Webpack 4 配置最佳实践](http://zxc0328.github.io/2018/06/19/webpack-4-config-best-practices/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Mathjax与LaTex公式简介](https://www.cnblogs.com/linxd/p/4955530.html)
+
+## React
+[浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
+
+[React 是怎样炼成的](https://segmentfault.com/a/1190000013365426)
 
 ## Serverless
 
