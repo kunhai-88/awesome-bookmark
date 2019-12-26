@@ -992,12 +992,34 @@
         "link": "https://mp.weixin.qq.com/s/hKmbjCE71IXkXy0yC1orTQ"
       },
       {
+        "title": "漫画人工智能：啥是机器学习？",
+        "link": "https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A"
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "children": [
+      {
         "title": "一刻钟学会Python3",
         "link": "https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg"
       },
       {
-        "title": "漫画人工智能：啥是机器学习？",
-        "link": "https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A"
+        "title": "NumPy 中文文档",
+        "link": "https://www.numpy.org.cn/"
+      },
+      {
+        "title": "101 NumPy Exercises for Data Analysis (Python)",
+        "link": "https://www.machinelearningplus.com/python/101-numpy-exercises-python/"
+      }
+    ]
+  },
+  {
+    "title": "密码学",
+    "children": [
+      {
+        "title": "区块链背后的密码学",
+        "link": "https://learning.nervos.org/crypto-block/0-intro.html"
       }
     ]
   },

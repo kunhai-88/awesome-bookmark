@@ -489,10 +489,19 @@
 
 [我眼中的AI简史](https://mp.weixin.qq.com/s/hKmbjCE71IXkXy0yC1orTQ)
 
-[一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
-
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
 
+## Python 
+
+[一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
+
+[NumPy 中文文档](https://www.numpy.org.cn/)
+
+[101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+
+## 密码学
+
+[区块链背后的密码学](https://learning.nervos.org/crypto-block/0-intro.html)
 
 ## 管理
 
