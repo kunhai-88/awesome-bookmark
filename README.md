@@ -511,6 +511,11 @@
 
 [认知的高度 = 人生的高度](https://mp.weixin.qq.com/s/iQ7o1If_TZtluTbcUqUJUA)
 
+## 个人经历
+
+[被低估的罗振宇](https://mp.weixin.qq.com/s/nh5xIty6vrO7vuKFZ8Zkiw)
+
+[2020年，陆奇59岁：我给20、30、40岁年轻人的建议](https://mp.weixin.qq.com/s/4rB4N_qKEP_9E18Xp1MjQg)
 
 ## 基金
 
