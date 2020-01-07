@@ -340,7 +340,10 @@
 [原前缀树和后缀树](https://blog.csdn.net/u013949069/article/details/78056102)
 
 ## 小程序
+
 [为何小程序上线了，他们的内心却留下遗憾？](https://mp.weixin.qq.com/s/TaWcx60tP6qpG3tgd-Hfkw)
+
+[小程序资质攻略](https://mp.weixin.qq.com/s/yBD9uFUfP1M7XCveLErQJg)
 
 ## Http
 [HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
