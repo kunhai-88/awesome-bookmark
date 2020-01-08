@@ -166,6 +166,8 @@
 
 [Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[深入浅出Serverless：优势、意义与应用](https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg)
+
 ## 浏览器
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
@@ -329,7 +331,6 @@
 [十大经典排序算法](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
 
 ## 数据结构
-
 
 [常见数据结构和Javascript实现总结](https://segmentfault.com/a/1190000020011987)
 
