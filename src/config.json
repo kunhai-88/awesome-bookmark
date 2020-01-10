@@ -335,6 +335,10 @@
       {
         "title": "深入浅出Serverless：优势、意义与应用",
         "link": "https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg"
+      },
+      {
+        "title": "Cloudflare Workers",
+        "link": "https://workers.cloudflare.com/"
       }
     ]
   },

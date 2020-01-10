@@ -168,6 +168,8 @@
 
 [深入浅出Serverless：优势、意义与应用](https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg)
 
+[Cloudflare Workers](https://workers.cloudflare.com/)
+
 ## 浏览器
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
