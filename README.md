@@ -170,6 +170,8 @@
 
 [Cloudflare Workers](https://workers.cloudflare.com/)
 
+[Serverless 与前端工程化结合：让项目 5 分钟上线成为可能](https://mp.weixin.qq.com/s/qE99CEqWrtxxISBISAQAKA)
+
 ## 浏览器
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
