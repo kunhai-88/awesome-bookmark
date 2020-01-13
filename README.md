@@ -501,6 +501,8 @@
 
 [Jupyter在美团民宿的应用实践](https://tech.meituan.com/2019/11/21/application-practice-jupyter.html)
 
+[Jupyter lab 安装及多kernel配置](https://zhuanlan.zhihu.com/p/36203710)
+
 ## Python 
 
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)
