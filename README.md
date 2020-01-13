@@ -531,6 +531,8 @@
 
 [2020年，陆奇59岁：我给20、30、40岁年轻人的建议](https://mp.weixin.qq.com/s/4rB4N_qKEP_9E18Xp1MjQg)
 
+[皮查伊(Google CEO)的登顶之路](https://tech.sina.com.cn/it/2019-12-10/doc-iihnzhfz4783261.shtml)
+
 ## 基金
 
 [如果基金经理也有大白马，那还买啥茅台啊！？](https://mp.weixin.qq.com/s/Lsf_gUPrn_fuMdHgl9z6PA)
