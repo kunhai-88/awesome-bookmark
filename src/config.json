@@ -339,6 +339,10 @@
       {
         "title": "Cloudflare Workers",
         "link": "https://workers.cloudflare.com/"
+      },
+      {
+        "title": "Serverless 与前端工程化结合：让项目 5 分钟上线成为可能",
+        "link": "https://mp.weixin.qq.com/s/qE99CEqWrtxxISBISAQAKA"
       }
     ]
   },
