@@ -497,6 +497,10 @@
 
 [漫画人工智能：啥是机器学习？](https://mp.weixin.qq.com/s/FMPH2Kw6ITgcICXIzliV2A)
 
+## Jupyter
+
+[Jupyter在美团民宿的应用实践](https://tech.meituan.com/2019/11/21/application-practice-jupyter.html)
+
 ## Python 
 
 [一刻钟学会Python3](https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg)

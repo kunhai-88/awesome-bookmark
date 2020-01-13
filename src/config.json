@@ -1010,6 +1010,15 @@
     ]
   },
   {
+    "title": "Jupyter",
+    "children": [
+      {
+        "title": "Jupyter在美团民宿的应用实践",
+        "link": "https://tech.meituan.com/2019/11/21/application-practice-jupyter.html"
+      }
+    ]
+  },
+  {
     "title": "Python",
     "children": [
       {
