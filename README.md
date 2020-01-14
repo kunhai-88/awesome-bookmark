@@ -172,6 +172,8 @@
 
 [Serverless 与前端工程化结合：让项目 5 分钟上线成为可能](https://mp.weixin.qq.com/s/qE99CEqWrtxxISBISAQAKA)
 
+[Serverless 实战与进阶](https://static001.geekbang.org/con/55/pdf/3958791367/file/%E9%99%88%E4%BB%B2%E5%AF%85(1).pdf)
+
 ## 浏览器
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
