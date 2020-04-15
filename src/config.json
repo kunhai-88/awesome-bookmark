@@ -211,6 +211,10 @@
         "link": "https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
+        "title": "Vue 的数据响应式原理",
+        "link": "https://www.infoq.cn/article/we3l33H5zGYyg6gC9hR"
+      },
+      {
         "title": "Vue.js是如何做到数据响应的？",
         "link": "https://www.zcfy.cc/article/the-best-explanation-of-javascript-reactivity?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },

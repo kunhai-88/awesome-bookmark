@@ -107,6 +107,8 @@
 
 [彻底搞懂JavaScript中的this指向问题](https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Vue 的数据响应式原理](https://www.infoq.cn/article/we3l33H5zGYyg6gC9hR)
+
 [Vue.js是如何做到数据响应的？](https://www.zcfy.cc/article/the-best-explanation-of-javascript-reactivity?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [深入理解 React 高阶组件](https://zhuanlan.zhihu.com/p/24776678?group_id=802649040843051008)
