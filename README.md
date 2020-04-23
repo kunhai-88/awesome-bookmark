@@ -156,6 +156,7 @@
 [Mathjax与LaTex公式简介](https://www.cnblogs.com/linxd/p/4955530.html)
 
 ## React
+
 [浅谈React Fiber](https://segmentfault.com/a/1190000020035950)
 
 [React 是怎样炼成的](https://segmentfault.com/a/1190000013365426)
@@ -177,6 +178,7 @@
 [Serverless 实战与进阶](https://static001.geekbang.org/con/55/pdf/3958791367/file/%E9%99%88%E4%BB%B2%E5%AF%85(1).pdf)
 
 ## 浏览器
+
 [V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
 
 [深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
@@ -332,6 +334,8 @@
 
 ## 算法
 
+[分布式哈希表 (DHT) 和 P2P 技术](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
+
 [各种算法的动态演示网站](https://visualgo.net/zh)
 
 [聊聊算法之递归](https://coolcao.com/2019/10/21/recursion/)
@@ -355,6 +359,7 @@
 [小程序资质攻略](https://mp.weixin.qq.com/s/yBD9uFUfP1M7XCveLErQJg)
 
 ## Http
+
 [HTTP协议冷知识大全](https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ)
 
 [鲜为人知的HTTP协议头字段详解大全](https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg)
@@ -364,7 +369,6 @@
 [HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 
 [GET和POST的区别](https://segmentfault.com/a/1190000018129846)
-
 
 [浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)
 
