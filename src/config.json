@@ -11,11 +11,11 @@
         "link": "https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA"
       },
       {
-        "title": "js \"私人定制\"CLI工具",
+        "title": "js \"私人定制\"CLI 工具",
         "link": "https://zhuanlan.zhihu.com/p/84397064"
       },
       {
-        "title": "十大npm最佳安全指南，教你如何避免安全漏洞！",
+        "title": "十大 npm 最佳安全指南，教你如何避免安全漏洞！",
         "link": "https://mp.weixin.qq.com/s/M0ggyPcBDrdkjKQAOgvRkw"
       },
       {
@@ -23,7 +23,7 @@
         "link": "https://mp.weixin.qq.com/s/ab6Cgcq-PIXEnJxJ-6WiFg"
       },
       {
-        "title": "JS基础-函数、对象和原型、原型链的关系",
+        "title": "JS 基础-函数、对象和原型、原型链的关系",
         "link": "https://mp.weixin.qq.com/s/Rmz7UYcDDW-naxtpXM3XMg"
       },
       {
@@ -31,11 +31,11 @@
         "link": "https://segmentfault.com/a/1190000019897234"
       },
       {
-        "title": "一文带你解锁Web应用中的图片优化技巧！",
+        "title": "一文带你解锁 Web 应用中的图片优化技巧！",
         "link": "https://mp.weixin.qq.com/s/HedCrnFQOSHLZuKqtDB3uA"
       },
       {
-        "title": "深入理解ESLint",
+        "title": "深入理解 ESLint",
         "link": "https://mp.weixin.qq.com/s/mLCNgarh95W_tw6YP9qBaQ"
       },
       {
@@ -55,31 +55,31 @@
         "link": "https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg"
       },
       {
-        "title": "用AOP改善javascript代码",
+        "title": "用 AOP 改善 javascript 代码",
         "link": "http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/"
       },
       {
-        "title": "JS无形装逼，最为致命",
+        "title": "JS 无形装逼，最为致命",
         "link": "https://mp.weixin.qq.com/s/G7CXpl4ircuoFHt7RBrgNg"
       },
       {
-        "title": "npm如何管理依赖包的版本",
+        "title": "npm 如何管理依赖包的版本",
         "link": "https://www.jianshu.com/p/1470c5d7b8c3"
       },
       {
-        "title": "你真的理解了MVC, MVP, MVVM吗？",
+        "title": "你真的理解了 MVC, MVP, MVVM 吗？",
         "link": "https://mp.weixin.qq.com/s/EzxfJLb5Hjxyw0_S5rThvg"
       },
       {
-        "title": "14招搞定JavaScript调试",
+        "title": "14 招搞定 JavaScript 调试",
         "link": "https://blog.fundebug.com/2017/11/08/14-javascript-debugging-tips/"
       },
       {
-        "title": "HTML5中手势原理分析与数学知识的实践",
+        "title": "HTML5 中手势原理分析与数学知识的实践",
         "link": "https://github.com/xd-tayde/blog/blob/master/html5-touch-math.md"
       },
       {
-        "title": "你必须要懂的原生JS",
+        "title": "你必须要懂的原生 JS",
         "link": "https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw"
       },
       {
@@ -95,7 +95,7 @@
         "link": "http://www.ruanyifeng.com/blog/2016/09/csp.html"
       },
       {
-        "title": "深入理解javascript错误处理机制",
+        "title": "深入理解 javascript 错误处理机制",
         "link": "%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3javascript%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6"
       },
       {
@@ -123,7 +123,7 @@
         "link": "https://zhuanlan.zhihu.com/p/43249121?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "PWA学习手册",
+        "title": "PWA 学习手册",
         "link": "https://alienzhou.gitbook.io/learning-pwa/"
       },
       {
@@ -143,7 +143,7 @@
         "link": "https://github.com/ljianshu/Blog/issues/48?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "为什么前端监控要用GIF打点",
+        "title": "为什么前端监控要用 GIF 打点",
         "link": "https://mp.weixin.qq.com/s/v6R2w26qZkEilXY0mPUBCw"
       },
       {
@@ -151,11 +151,11 @@
         "link": "https://mp.weixin.qq.com/s/9ZJBCKU0ByKaBrkf68cDsw"
       },
       {
-        "title": "console的那些事儿",
+        "title": "console 的那些事儿",
         "link": "https://zhuanlan.zhihu.com/p/51724985?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "JavaScript错误处理权威指南",
+        "title": "JavaScript 错误处理权威指南",
         "link": "https://mp.weixin.qq.com/s/dmMc2ADUv4efEj1P-noo8A"
       },
       {
@@ -163,7 +163,7 @@
         "link": "http://jartto.wang/2018/11/20/js-exception-handling/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？",
+        "title": "抛开 Vue、React、JQuery 这类第三方 js，我们该怎么写代码？",
         "link": "https://mp.weixin.qq.com/s/B5Nl7vee9yWdcd_oxn0bXQ"
       },
       {
@@ -191,7 +191,7 @@
         "link": "http://blog-en.tilda.cc/articles-website-design-mistakes"
       },
       {
-        "title": "写给前端工程师的10条实用原则",
+        "title": "写给前端工程师的 10 条实用原则",
         "link": "https://blog.fundebug.com/2018/08/29/10-things-you-will-eventually-learn-about-js-projects/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -207,7 +207,7 @@
         "link": "https://zhuanlan.zhihu.com/p/42649246?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "彻底搞懂JavaScript中的this指向问题",
+        "title": "彻底搞懂 JavaScript 中的 this 指向问题",
         "link": "https://zhuanlan.zhihu.com/p/42145138?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -215,7 +215,7 @@
         "link": "https://www.infoq.cn/article/we3l33H5zGYyg6gC9hR"
       },
       {
-        "title": "Vue.js是如何做到数据响应的？",
+        "title": "Vue.js 是如何做到数据响应的？",
         "link": "https://www.zcfy.cc/article/the-best-explanation-of-javascript-reactivity?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -235,11 +235,11 @@
         "link": "http://litten.me/2017/07/09/prevent-spiders/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "如何自己写一个公用的NPM包",
+        "title": "如何自己写一个公用的 NPM 包",
         "link": "https://segmentfault.com/a/1190000010521272?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "JS高程中的垃圾回收机制与常见内存泄露的解决方法",
+        "title": "JS 高程中的垃圾回收机制与常见内存泄露的解决方法",
         "link": "http://obkoro1.com/2018/07/08/JS%E9%AB%98%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%B8%B8%E8%A7%81%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/#more"
       },
       {
@@ -247,7 +247,7 @@
         "link": "https://mp.weixin.qq.com/s/wumZseCfba4XaDbAFwFdwA"
       },
       {
-        "title": "JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏",
+        "title": "JavaScript 如何工作:内存管理+如何处理 4 个常见的内存泄漏",
         "link": "https://segmentfault.com/a/1190000017392370?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -263,15 +263,15 @@
         "link": "https://zhuanlan.zhihu.com/p/28431744?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "JavaScript核心概念归纳整理",
+        "title": "JavaScript 核心概念归纳整理",
         "link": "https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA"
       },
       {
-        "title": "ESLint配置参数介绍",
+        "title": "ESLint 配置参数介绍",
         "link": "https://segmentfault.com/a/1190000004468428"
       },
       {
-        "title": "2017前端性能优化清",
+        "title": "2017 前端性能优化清",
         "link": "https://github.com/Findow-team/Blog/issues/11"
       },
       {
@@ -283,15 +283,15 @@
         "link": "http://www.ruanyifeng.com/blog/2018/07/web-worker.html"
       },
       {
-        "title": "合并HTTP请求 vs 并行HTTP请求，到底谁更快？",
+        "title": "合并 HTTP 请求 vs 并行 HTTP 请求，到底谁更快？",
         "link": "https://mp.weixin.qq.com/s/iwpRWwyv7AWXTdELHdqUKg"
       },
       {
-        "title": "Web框架的架构模式探讨（JavaScript语言）",
+        "title": "Web 框架的架构模式探讨（JavaScript 语言）",
         "link": "https://zhuanlan.zhihu.com/p/36925127?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "你需要了解的23种JavaScript设计模式",
+        "title": "你需要了解的 23 种 JavaScript 设计模式",
         "link": "https://mp.weixin.qq.com/s/Ov62U8kktVv7Jz0Ukhekkg"
       },
       {
@@ -303,7 +303,7 @@
         "link": "http://zxc0328.github.io/2018/06/19/webpack-4-config-best-practices/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "Mathjax与LaTex公式简介",
+        "title": "Mathjax 与 LaTex 公式简介",
         "link": "https://www.cnblogs.com/linxd/p/4955530.html"
       }
     ]
@@ -312,7 +312,7 @@
     "title": "React",
     "children": [
       {
-        "title": "浅谈React Fiber",
+        "title": "浅谈 React Fiber",
         "link": "https://segmentfault.com/a/1190000020035950"
       },
       {
@@ -337,7 +337,7 @@
         "link": "https://zhuanlan.zhihu.com/p/65914436?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "深入浅出Serverless：优势、意义与应用",
+        "title": "深入浅出 Serverless：优势、意义与应用",
         "link": "https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg"
       },
       {
@@ -358,7 +358,7 @@
     "title": "浏览器",
     "children": [
       {
-        "title": "V8引擎是如何工作的？",
+        "title": "V8 引擎是如何工作的？",
         "link": "https://blog.fundebug.com/2019/07/16/how-does-v8-work/"
       },
       {
@@ -404,7 +404,7 @@
         "link": "https://zhuanlan.zhihu.com/p/34231785"
       },
       {
-        "title": "Immutable 常用API简介",
+        "title": "Immutable 常用 API 简介",
         "link": "https://segmentfault.com/a/1190000010676878"
       }
     ]
@@ -413,7 +413,7 @@
     "title": "Flutter",
     "children": [
       {
-        "title": "深入理解Flutter多线程",
+        "title": "深入理解 Flutter 多线程",
         "link": "https://www.jianshu.com/p/54da18ed1a9e"
       },
       {
@@ -421,15 +421,15 @@
         "link": "https://mp.weixin.qq.com/s/qXNbT-pJ4wnKANhUsyn2xw"
       },
       {
-        "title": "Flutter在2019年会有怎样的表现？",
+        "title": "Flutter 在 2019 年会有怎样的表现？",
         "link": "https://www.zhihu.com/question/307594373/answer/653275793"
       },
       {
-        "title": "Fish Redux中的Dispatch是怎么实现的",
+        "title": "Fish Redux 中的 Dispatch 是怎么实现的",
         "link": "https://mp.weixin.qq.com/s/4hJzGPH8OQ6hkthRFuisBQ"
       },
       {
-        "title": "Flutter自定义绘制Widget初探",
+        "title": "Flutter 自定义绘制 Widget 初探",
         "link": "https://mp.weixin.qq.com/s/ZwkNS2Fpp9ED4NQgdRTydg"
       },
       {
@@ -437,23 +437,23 @@
         "link": "https://mp.weixin.qq.com/s/32e-V9K2-VX97PAYVitUPQ"
       },
       {
-        "title": "流言终结者- Flutter和RN谁才是更好的跨端开发方案？",
+        "title": "流言终结者- Flutter 和 RN 谁才是更好的跨端开发方案？",
         "link": "https://mp.weixin.qq.com/s/XSfPs2hX2P7FPqRUyematA"
       },
       {
-        "title": "GMTC-闲鱼Flutter实践效果访谈",
+        "title": "GMTC-闲鱼 Flutter 实践效果访谈",
         "link": "https://mp.weixin.qq.com/s/kCa9qVBkvYRSAGmxyInIPQ"
       },
       {
-        "title": "关于Flutter，你想知道的都在这里了！",
+        "title": "关于 Flutter，你想知道的都在这里了！",
         "link": "https://mp.weixin.qq.com/s/8OKI-gNu4Qrt298zae43SQ"
       },
       {
-        "title": "Flutter实战",
+        "title": "Flutter 实战",
         "link": "https://book.flutterchina.club"
       },
       {
-        "title": "让我们在2019年重新认识 Flutter",
+        "title": "让我们在 2019 年重新认识 Flutter",
         "link": "https://zhuanlan.zhihu.com/p/55125580"
       },
       {
@@ -461,7 +461,7 @@
         "link": "https://zhuanlan.zhihu.com/p/55329631?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "Flutter项目优雅的使用ORM数据库",
+        "title": "Flutter 项目优雅的使用 ORM 数据库",
         "link": "https://www.jianshu.com/p/a6529a04c979"
       }
     ]
@@ -470,7 +470,7 @@
     "title": "前端面试",
     "children": [
       {
-        "title": "高频JavaScript手写面试题及答案",
+        "title": "高频 JavaScript 手写面试题及答案",
         "link": "https://mp.weixin.qq.com/s/CY-igdCB_U-DtA4E2BKhhA"
       },
       {
@@ -478,7 +478,7 @@
         "link": "http://jartto.wang/2019/01/06/f2e-interview/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "26个精选的JavaScript面试问题",
+        "title": "26 个精选的 JavaScript 面试问题",
         "link": "https://blog.fundebug.com/2018/10/18/top-26-js-interview-questions/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -508,15 +508,15 @@
     "title": "Nodejs",
     "children": [
       {
-        "title": "如何正确的学习Node.js",
+        "title": "如何正确的学习 Node.js",
         "link": "https://i5ting.github.io/How-to-learn-node-correctly/#101"
       },
       {
-        "title": "用Node.js开发一个Command Line Interface (CLI)",
+        "title": "用 Node.js 开发一个 Command Line Interface (CLI)",
         "link": "https://zhuanlan.zhihu.com/p/38730825?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "Java能抵挡住JavaScript的进攻吗？",
+        "title": "Java 能抵挡住 JavaScript 的进攻吗？",
         "link": "https://mp.weixin.qq.com/s/BY2uVuQfqzf5VUCB2tck5Q"
       },
       {
@@ -533,11 +533,11 @@
     "title": "WebAssembly",
     "children": [
       {
-        "title": "90% 的应用场景都不需要用WebAssembly",
+        "title": "90% 的应用场景都不需要用 WebAssembly",
         "link": "https://mp.weixin.qq.com/s/8lljMRHNMkO_Dj9dtBWd6A"
       },
       {
-        "title": "WebAssembly到底处于编译阶段的哪个环节？",
+        "title": "WebAssembly 到底处于编译阶段的哪个环节？",
         "link": "https://mp.weixin.qq.com/s/anaqamsHSzndny6jQR6cuw"
       },
       {
@@ -545,11 +545,11 @@
         "link": "https://juejin.im/post/5d4b17b0f265da03c926e436"
       },
       {
-        "title": "WebAssembly完全入门：了解wasm的前世今身",
+        "title": "WebAssembly 完全入门：了解 wasm 的前世今身",
         "link": "https://mp.weixin.qq.com/s/68PRzQ4vuNFjI74fWSYrvw"
       },
       {
-        "title": "WebAssembly在性能及加密场景的深度探索",
+        "title": "WebAssembly 在性能及加密场景的深度探索",
         "link": "https://mp.weixin.qq.com/s/ab9Ww2NlwYdShhiXkl1eKA"
       }
     ]
@@ -558,7 +558,7 @@
     "title": "搜索",
     "children": [
       {
-        "title": "终于有人把Elasticsearch原理讲透了！",
+        "title": "终于有人把 Elasticsearch 原理讲透了！",
         "link": "https://zhuanlan.zhihu.com/p/62892586"
       },
       {
@@ -566,15 +566,15 @@
         "link": "https://mp.weixin.qq.com/s/hhacNqLgl0oRAgp1ntz3Ag"
       },
       {
-        "title": "Sonic：用Rust编写的Elasticsearch的极简替代品",
+        "title": "Sonic：用 Rust 编写的 Elasticsearch 的极简替代品",
         "link": "https://zhuanlan.zhihu.com/p/63963140"
       },
       {
-        "title": "Sonic——可替代Elasticsearch的简单搜索引擎",
+        "title": "Sonic——可替代 Elasticsearch 的简单搜索引擎",
         "link": "https://www.jianshu.com/p/2cacd95b3416"
       },
       {
-        "title": "掌握它才说明你真正懂Elasticsearch",
+        "title": "掌握它才说明你真正懂 Elasticsearch",
         "link": "https://zhuanlan.zhihu.com/p/63963140"
       }
     ]
@@ -607,7 +607,7 @@
         "link": "https://insights.thoughtworks.cn/is-quality-worth-cost/"
       },
       {
-        "title": "测试工程师必须要掌握的linux命令",
+        "title": "测试工程师必须要掌握的 linux 命令",
         "link": "https://zhuanlan.zhihu.com/p/71596407"
       },
       {
@@ -647,7 +647,7 @@
         "link": "https://liudanking.com/sitelog/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%86%E8%8A%82%E4%B8%AD%EF%BC%9Abase64-%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%86%E8%8A%82/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "如何使用rsync命令",
+        "title": "如何使用 rsync 命令",
         "link": "https://mp.weixin.qq.com/s/EdlcTYIG3QPStJtg6W2hKw"
       },
       {
@@ -659,11 +659,11 @@
         "link": "https://zhuanlan.zhihu.com/p/57359378?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "不就是个短信登录API嘛，有这么复杂吗？",
+        "title": "不就是个短信登录 API 嘛，有这么复杂吗？",
         "link": "https://insights.thoughtworks.cn/sms-authentication-login-api/"
       },
       {
-        "title": "一刻钟学会Go语言",
+        "title": "一刻钟学会 Go 语言",
         "link": "https://mp.weixin.qq.com/s/k5CpO6vVSMP4tOYAcAXcqg"
       }
     ]
@@ -693,7 +693,7 @@
     "title": "数据结构",
     "children": [
       {
-        "title": "常见数据结构和Javascript实现总结",
+        "title": "常见数据结构和 Javascript 实现总结",
         "link": "https://segmentfault.com/a/1190000020011987"
       },
       {
@@ -727,11 +727,11 @@
     "title": "Http",
     "children": [
       {
-        "title": "HTTP协议冷知识大全",
+        "title": "HTTP 协议冷知识大全",
         "link": "https://mp.weixin.qq.com/s/aekcsgLG6jZw3LeF3R9ssQ"
       },
       {
-        "title": "鲜为人知的HTTP协议头字段详解大全",
+        "title": "鲜为人知的 HTTP 协议头字段详解大全",
         "link": "https://mp.weixin.qq.com/s/RtKPGi9rIcfx1anadj_HWg"
       },
       {
@@ -743,7 +743,7 @@
         "link": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching"
       },
       {
-        "title": "GET和POST的区别",
+        "title": "GET 和 POST 的区别",
         "link": "https://segmentfault.com/a/1190000018129846"
       },
       {
@@ -756,7 +756,7 @@
     "title": "GraphQL",
     "children": [
       {
-        "title": "GraphQL到底怎么用？看看这个例子就知道了",
+        "title": "GraphQL 到底怎么用？看看这个例子就知道了",
         "link": "https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A"
       }
     ]
@@ -765,7 +765,7 @@
     "title": "Progressive Web App (PWA)",
     "children": [
       {
-        "title": "PWA文档",
+        "title": "PWA 文档",
         "link": "https://lavas.baidu.com/pwa"
       },
       {
@@ -786,7 +786,7 @@
     "title": "Docker",
     "children": [
       {
-        "title": "docker镜像瘦身&优化",
+        "title": "docker 镜像瘦身&优化",
         "link": "https://lailin.xyz/post/notes/docker%E9%95%9C%E5%83%8F%E7%98%A6%E8%BA%AB/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ios"
       },
       {
@@ -798,7 +798,7 @@
         "link": "https://segmentfault.com/a/1190000008822648"
       },
       {
-        "title": "Docker的学习--命令使用详解",
+        "title": "Docker 的学习--命令使用详解",
         "link": "http://www.cnblogs.com/CraryPrimitiveMan/p/4657835.html"
       },
       {
@@ -815,11 +815,11 @@
     "title": "Devops",
     "children": [
       {
-        "title": "sentry使用实践",
+        "title": "sentry 使用实践",
         "link": "https://www.jianshu.com/p/66e00077fac3"
       },
       {
-        "title": "Vue SPA项目 + Sentry 实现前端错误监控",
+        "title": "Vue SPA 项目 + Sentry 实现前端错误监控",
         "link": "https://juejin.im/post/5adb05fef265da0b79647421"
       },
       {
@@ -827,15 +827,15 @@
         "link": "https://www.jianshu.com/p/55df42bc57ec?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "Git的奇技淫巧",
+        "title": "Git 的奇技淫巧",
         "link": "https://github.com/521xueweihan/git-tips?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
-        "title": "前端必备！最全nginx技术分析",
+        "title": "前端必备！最全 nginx 技术分析",
         "link": "https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw"
       },
       {
-        "title": "深入理解git merge 和 git rebase",
+        "title": "深入理解 git merge 和 git rebase",
         "link": "https://mp.weixin.qq.com/s?__biz=MzI5NTE1NDQ1MQ==&mid=2650767725&idx=1&sn=5cd775c7878b7e7890d0418415b3f778&chksm=f45cc711c32b4e073286919b0e895f9997e2944d1d6acdaf77143f08b8dae157249558145a73&mpshare=1&scene=1&srcid=0601woZhFp3m0KfELdXyl1Za&key=baf732038d89126b7cb3d97894b809cb06d3749519b1ca9b0ffaae63216394bcb03065a455ca4878081b38af768ccc72074238f29a4b1e39707544ec7ab1854d28251c512251f2d5089e4417ecdf5c26&ascene=0&uin=MjEzMTAwMzgyNQ%3D%3D&devicetype=iMac+MacBookAir7%2C1+OSX+OSX+10.12.4"
       },
       {
@@ -860,11 +860,11 @@
         "link": "http://www.geekhalo.com/2019/09/01/architecture/evolution/?"
       },
       {
-        "title": "中国互联网20年简史（1998-2018）",
+        "title": "中国互联网 20 年简史（1998-2018）",
         "link": "https://mp.weixin.qq.com/s/X195WPlHz6IyMyg-lpc9Yg"
       },
       {
-        "title": "腾讯的产品思维VS阿里的终局思维",
+        "title": "腾讯的产品思维 VS 阿里的终局思维",
         "link": "https://mp.weixin.qq.com/s/SWwX9MP-IQ02k6T7thOISA"
       },
       {
@@ -929,7 +929,7 @@
         "link": "https://mp.weixin.qq.com/s/rk9gHBljuqB3XJNJ2R1Crg"
       },
       {
-        "title": "95岁芒格最新演讲：人们都以为具备常识很简单，其实很难",
+        "title": "95 岁芒格最新演讲：人们都以为具备常识很简单，其实很难",
         "link": "https://mp.weixin.qq.com/s/i0ywnHBbf_TZcAyDSLk1Hg"
       }
     ]
@@ -938,7 +938,7 @@
     "title": "设计",
     "children": [
       {
-        "title": "9个小知识教你更好的理解动画原则，提升动效品质",
+        "title": "9 个小知识教你更好的理解动画原则，提升动效品质",
         "link": "https://mp.weixin.qq.com/s/6aIN1LcLyXd2KP4sf05U3w"
       },
       {
@@ -951,7 +951,7 @@
     "title": "杂文",
     "children": [
       {
-        "title": "我珍藏5年的10倍速阅读法",
+        "title": "我珍藏 5 年的 10 倍速阅读法",
         "link": "https://mp.weixin.qq.com/s/HNsAXUy0p_zwK5oT86LMGw"
       },
       {
@@ -979,7 +979,7 @@
         "link": "http://www.mvyxws.com/"
       },
       {
-        "title": "我是一名职业IT培训讲师",
+        "title": "我是一名职业 IT 培训讲师",
         "link": "https://zhuanlan.zhihu.com/p/60894743?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io"
       },
       {
@@ -987,7 +987,7 @@
         "link": "https://mp.weixin.qq.com/s/j3-g1t1R9wF9RlhlN387ew"
       },
       {
-        "title": "浅谈OKR- 什么是OKR？",
+        "title": "浅谈 OKR- 什么是 OKR？",
         "link": "https://mp.weixin.qq.com/"
       },
       {
@@ -1020,7 +1020,7 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzI5MTQ5NDY1MA==&mid=2247485890&idx=1&sn=771886675309486203cb134cd00ffa0b&chksm=ec0e8657db790f41dec2c53b8b5f0728b697e5cab5be137eadfc83d03746e614f7810bec4484&scene=21&ascene=56&devicetype=android-28&version=2700043a&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQBWmR4AzJkeANyZHgDhmR4A+pkeAAAA&lang=zh_CN&pass_ticket=UHvZ9bMj1c5pGMIaC6utD6VttI46ha+nQHzdEbsn0EpO+kJBvOEXa8P40SWaYfFx&wx_header=1"
       },
       {
-        "title": "我眼中的AI简史",
+        "title": "我眼中的 AI 简史",
         "link": "https://mp.weixin.qq.com/s/hKmbjCE71IXkXy0yC1orTQ"
       },
       {
@@ -1033,11 +1033,11 @@
     "title": "Jupyter",
     "children": [
       {
-        "title": "Jupyter在美团民宿的应用实践",
+        "title": "Jupyter 在美团民宿的应用实践",
         "link": "https://tech.meituan.com/2019/11/21/application-practice-jupyter.html"
       },
       {
-        "title": "Jupyter lab 安装及多kernel配置",
+        "title": "Jupyter lab 安装及多 kernel 配置",
         "link": "https://zhuanlan.zhihu.com/p/36203710"
       }
     ]
@@ -1046,7 +1046,7 @@
     "title": "Python",
     "children": [
       {
-        "title": "一刻钟学会Python3",
+        "title": "一刻钟学会 Python3",
         "link": "https://mp.weixin.qq.com/s/Q3hSx6Y9_lG4p4CIxZihlg"
       },
       {
@@ -1093,7 +1093,7 @@
         "link": "https://mp.weixin.qq.com/s/nh5xIty6vrO7vuKFZ8Zkiw"
       },
       {
-        "title": "2020年，陆奇59岁：我给20、30、40岁年轻人的建议",
+        "title": "2020 年，陆奇 59 岁：我给 20、30、40 岁年轻人的建议",
         "link": "https://mp.weixin.qq.com/s/4rB4N_qKEP_9E18Xp1MjQg"
       },
       {
@@ -1114,7 +1114,7 @@
         "link": "https://mp.weixin.qq.com/s/OZa7eZcI_5Ki_-ffwyw7iQ"
       },
       {
-        "title": "基于ETF构建资产配置组合",
+        "title": "基于 ETF 构建资产配置组合",
         "link": "https://mp.weixin.qq.com/s/2Sr8d-xlgRJisqTNIsstdw"
       }
     ]
