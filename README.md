@@ -541,3 +541,7 @@
 [第一指数 | 定投：聪明的投资者还是懒人神器？](https://mp.weixin.qq.com/s/OZa7eZcI_5Ki_-ffwyw7iQ)
 
 [基于 ETF 构建资产配置组合](https://mp.weixin.qq.com/s/2Sr8d-xlgRJisqTNIsstdw)
+
+## 微习惯
+
+[国家民委青年读书体会摘选：读《微习惯》有感](https://www.neac.gov.cn/seac/cyzd/201910/1137492.shtml)
